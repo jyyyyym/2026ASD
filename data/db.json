@@ -1,10 +1,35 @@
 {
   "projects": [
     {
+      "id": "0916",
+      "slug": "나를 표현하기",
+      "createdAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
       "id": "케이크 실습",
       "slug": "케이크 실습",
       "createdAt": "2026-09-22T19:53:22.295Z"
     }
   ],
-  "submissions": []
+  "submissions": [
+    {
+      "id": "76af9275-2588-4589-b912-ea0653930894",
+      "projectId": "0916",
+      "author": "테스트",
+      "aiName": "미드저니",
+      "promptProcess": "테스트",
+      "content": "테스트",
+      "intermediateImages": [],
+      "finalImages": [
+        {
+          "id": "1b02f723-88c2-43ba-a636-039991b3ba73",
+          "url": "https://raw.githubusercontent.com/jyyyyym/2026ASD/main/public/uploads/1b02f723-88c2-43ba-a636-039991b3ba73.webp",
+          "name": "6055-Roma-Glass-Bottle-__39021.webp",
+          "mime": "image/webp"
+        }
+      ],
+      "videos": [],
+      "createdAt": "2026-09-22T19:27:39.708Z"
+    }
+  ]
 }
