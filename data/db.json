@@ -25,18 +25,6 @@
       ],
       "videos": [],
       "createdAt": "2026-09-22T19:27:39.708Z"
-    },
-    {
-      "id": "27d93946-f4df-4c05-a6ba-cdededddffc7",
-      "projectId": "0916",
-      "author": "연결테스트",
-      "aiName": "Cursor",
-      "promptProcess": "공유 저장 확인",
-      "content": "다른 기기에서도 보여야 하는 테스트 기록입니다.",
-      "intermediateImages": [],
-      "finalImages": [],
-      "videos": [],
-      "createdAt": "2026-09-22T19:18:31.760Z"
     }
   ]
 }
