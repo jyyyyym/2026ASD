@@ -18,25 +18,6 @@
   ],
   "submissions": [
     {
-      "id": "106487b0-d3de-4050-a770-05684ddb3fa6",
-      "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
-      "author": "양유정",
-      "aiName": "Higgsfield",
-      "promptProcess": "A highly realistic ultra-detailed ASMR video, extreme close-up of a human hand gently tapping and pressing an Crystal Keyboard. Each square keycap is a transparent miniature seawater tank filled with clear water, tiny swaying aquatic plants, small beach shells, and miniature fish such as clownfish and goldfish. When the fingertips tap and press the keycaps, the water inside ripples softly, the fish sway gently, and the tiny plants move naturally. The keyboard sits on a dark walnut desk with a subtle sandy texture. Minimalist dark background, clean composition, cinematic soft lighting, macro lens, shallow depth of field, crisp focus on the aquarium keycaps and fingertips. The motion is delicate, slow, and soothing, emphasizing tactile ASMR sensations. ASMR audio focus: crisp glass tapping sounds, soft keyboard pressing sounds, subtle watery swishing, tiny fish movement sounds, gentle underwater ambience. The finger taps should create clear “dong dong” glass sounds, soft “click” key press sounds, light “swoosh” water movement, and delicate rubbing sounds as the fish brush against the tank walls. Hyper-realistic textures, natural water physics, realistic reflections, beautiful refraction inside the keycaps, calming luxury ASMR mood.",
-      "content": "크리스탈 키보드",
-      "intermediateImages": [],
-      "finalImages": [],
-      "videos": [
-        {
-          "id": "570a74a8-db9c-4f5c-9b78-d1dad74c3248",
-          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/videos/570a74a8-db9c-4f5c-9b78-d1dad74c3248-xayyvAiZsOCwx2JD24RGpYSlMjqcpO.mp4",
-          "name": "01-A highly realistic ultra-detailed ASMR v.mp4",
-          "mime": "video/mp4"
-        }
-      ],
-      "createdAt": "2026-09-23T11:47:15.024Z"
-    },
-    {
       "id": "fb02fc4c-abe1-44f6-895a-20f90f663776",
       "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
       "author": "박슬지",
