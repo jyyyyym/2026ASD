@@ -18,6 +18,25 @@
   ],
   "submissions": [
     {
+      "id": "30538a98-1628-469c-9c30-6e3b20bfb5f4",
+      "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
+      "author": "최지연",
+      "aiName": "higgsfield",
+      "promptProcess": "A highly realistic ultra-detailed ASMR video, extreme close-up of a human hand gently tapping and pressing an underwater aquarium keyboard. Each square keycap is a transparent miniature seawater tank filled with clear water, tiny swaying aquatic plants, small beach shells, and miniature fish such as clownfish and goldfish. When the fingertips tap and press the keycaps, the water inside ripples softly, the fish sway gently, and the tiny plants move naturally.\n\nThe keyboard sits on a dark walnut desk with a subtle sandy texture. Minimalist dark background, clean composition, cinematic soft lighting, macro lens, shallow depth of field, crisp focus on the aquarium keycaps and fingertips. The motion is delicate, slow, and soothing, emphasizing tactile ASMR sensations.\n\nASMR audio focus: crisp glass tapping sounds, soft keyboard pressing sounds, subtle watery swishing, tiny fish movement sounds, gentle underwater ambience. The finger taps should create clear “dong dong” glass sounds, soft “click” key press sounds, light “swoosh” water movement, and delicate rubbing sounds as the fish brush against the tank walls.\n\nHyper-realistic textures, natural water physics, realistic reflections, beautiful refraction inside the keycaps, calming luxury ASMR mood.",
+      "content": "A highly realistic ultra-detailed ASMR video, extreme close-up of a human hand gently tapping and pressing an underwater aquarium keyboard. Each square keycap is a transparent miniature seawater tank filled with clear water, tiny swaying aquatic plants, small beach shells, and miniature fish such as clownfish and goldfish. When the fingertips tap and press the keycaps, the water inside ripples softly, the fish sway gently, and the tiny plants move naturally.\n\nThe keyboard sits on a dark walnut desk with a subtle sandy texture. Minimalist dark background, clean composition, cinematic soft lighting, macro lens, shallow depth of field, crisp focus on the aquarium keycaps and fingertips. The motion is delicate, slow, and soothing, emphasizing tactile ASMR sensations.\n\nASMR audio focus: crisp glass tapping sounds, soft keyboard pressing sounds, subtle watery swishing, tiny fish movement sounds, gentle underwater ambience. The finger taps should create clear “dong dong” glass sounds, soft “click” key press sounds, light “swoosh” water movement, and delicate rubbing sounds as the fish brush against the tank walls.\n\nHyper-realistic textures, natural water physics, realistic reflections, beautiful refraction inside the keycaps, calming luxury ASMR mood.",
+      "intermediateImages": [],
+      "finalImages": [],
+      "videos": [
+        {
+          "id": "79852361-9ce0-49dc-927a-a850d7bb7e35",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/videos/79852361-9ce0-49dc-927a-a850d7bb7e35-kX5hrDiDDZpkAnjjjagADpZfoaHJNS.mp4",
+          "name": "01-A highly realistic ultra-detailed ASMR v.mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "createdAt": "2026-09-23T11:52:04.683Z"
+    },
+    {
       "id": "f804dfab-a975-42b9-8667-4b0f9f56ffa1",
       "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
       "author": "장민정",
