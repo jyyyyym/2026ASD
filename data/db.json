@@ -18,6 +18,25 @@
   ],
   "submissions": [
     {
+      "id": "8c23e43b-a6c2-45ac-9907-d45b2f17b21b",
+      "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
+      "author": "이수빈",
+      "aiName": "seedance2.0",
+      "promptProcess": "A highly realistic ultra-detailed ASMR video, extreme close-up of a human hand gently tapping and pressing a snowflake keyboard. Each square keycap is a transparent glass cube like a miniature snow globe, filled with clear liquid and tiny floating snowflakes, delicate ice crystals, and fine glittering frost particles. A few keycaps hold a tiny detailed snowflake crystal suspended in the center. When the fingertips tap and press the keycaps, the snow inside swirls up softly, then slowly drifts back down like a gentle snowfall, and the glitter catches the light as it falls.\n\nThe keyboard sits on a dark walnut desk lightly dusted with fine powdery snow, with a few small frost patterns on the surface. Minimalist dark background, clean composition, cool cinematic soft lighting in pale blue and silver tones with a subtle warm highlight on the fingertips, macro lens, shallow depth of field, crisp focus on the snowflake keycaps and fingertips. The motion is delicate, slow, and soothing, emphasizing a calm, wintry ASMR mood.\n\nASMR audio focus: crisp, clear glass tapping sounds, soft keyboard pressing sounds, faint tinkling of tiny ice crystals, gentle swirling liquid sounds, and a quiet crunch of powdery snow under the fingertips on the desk. The taps should create bright \"ting ting\" glass sounds, soft \"click\" key presses, light \"shhh\" snow swirling sounds, and delicate crystal chimes.\n\nHyper-realistic textures, natural floating particle physics, realistic reflections, beautiful icy refraction inside the keycaps, serene and dreamy luxury winter ASMR mood.",
+      "content": ".",
+      "intermediateImages": [],
+      "finalImages": [],
+      "videos": [
+        {
+          "id": "f2e8fa0e-6f0c-4d8f-8e8b-5c42555f8e69",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/videos/f2e8fa0e-6f0c-4d8f-8e8b-5c42555f8e69-hINvnpLhoznQ8NTkV8oeNcrEkYLYKW.mp4",
+          "name": "01-A highly realistic ultra-detailed ASMR v.mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "createdAt": "2026-09-23T11:45:56.674Z"
+    },
+    {
       "id": "9afd2c08-30bc-4e56-9741-d3169baa7202",
       "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
       "author": "최윤서",
