@@ -13,6 +13,39 @@
   ],
   "submissions": [
     {
+      "id": "5e42be39-b182-4da6-a788-55bf115e88e6",
+      "projectId": "f3b1e8ea-2f72-4e2e-bcab-6a839fd1886f",
+      "author": "장민정",
+      "aiName": "Midjourney",
+      "promptProcess": "1. keyword > txt2image \n2. keyword > Quick Edit(with image)",
+      "content": "1. flying Tony Tony Chopper \n2. flying Tony Tony Chopper which likes eating anything + 한식 이미지 첨부",
+      "intermediateImages": [
+        {
+          "id": "e0829918-0525-426e-92b2-7ab692d52967",
+          "url": "https://raw.githubusercontent.com/jyyyyym/2026ASD/main/public/uploads/e0829918-0525-426e-92b2-7ab692d52967.jpg",
+          "name": "mid_mj.jpg",
+          "mime": "image/jpeg"
+        }
+      ],
+      "finalImages": [
+        {
+          "id": "fe3397cb-9cc8-46c9-b6bb-04d51a10603b",
+          "url": "https://raw.githubusercontent.com/jyyyyym/2026ASD/main/public/uploads/fe3397cb-9cc8-46c9-b6bb-04d51a10603b.jpg",
+          "name": "final_mj.jpg",
+          "mime": "image/jpeg"
+        }
+      ],
+      "videos": [
+        {
+          "id": "42019b21-6227-4a7d-8887-e1332e1d57e7",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/videos/42019b21-6227-4a7d-8887-e1332e1d57e7-2JzHEq2cNiuQZuDMCvnYlEqZtnqmzx.mp4",
+          "name": "video_mj.mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "createdAt": "2026-09-23T10:05:15.635Z"
+    },
+    {
       "id": "266159be-1ade-4c00-9bac-f0b677d53ea9",
       "projectId": "f3b1e8ea-2f72-4e2e-bcab-6a839fd1886f",
       "author": "박소연",
