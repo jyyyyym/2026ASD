@@ -18,6 +18,25 @@
   ],
   "submissions": [
     {
+      "id": "bfb4dcc1-ce29-4b4a-ba38-f3e955cfdf58",
+      "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
+      "author": "임이영",
+      "aiName": "힉스필드 seedance 2.0",
+      "promptProcess": "A highly realistic ultra-detailed ASMR video, extreme close-up of a human hand gently tapping and pressing an underwater aquarium keyboard. Each square keycap is a transparent miniature seawater tank filled with clear water, tiny swaying aquatic plants, small beach shells, and miniature fish such as clownfish and goldfish. When the fingertips tap and press the keycaps, the water inside ripples softly, the fish sway gently, and the tiny plants move naturally. The keyboard sits on a dark walnut desk with a subtle sandy texture. Minimalist dark background, clean composition, cinematic soft lighting, macro lens, shallow depth of field, crisp focus on the aquarium keycaps and fingertips. The motion is delicate, slow, and soothing, emphasizing tactile ASMR sensations. ASMR audio focus: crisp glass tapping sounds, soft keyboard pressing sounds, subtle watery swishing, tiny fish movement sounds, gentle underwater ambience. The finger taps should create clear “dong dong” glass sounds, soft “click” key press sounds, light “swoosh” water movement, and delicate rubbing sounds as the fish brush against the tank walls. Hyper-realistic textures, natural water physics, realistic reflections, beautiful refraction inside the keycaps, calming luxury ASMR mood. 이거 기반으로 앵무새 키보드 누르는 프롬프트 짜줘",
+      "content": "A highly realistic ultra-detailed ASMR video, extreme close-up of a small adorable lovebird parrot inspired by a white-faced lime green lovebird. The bird has a soft white face, gentle lime-green body feathers, subtle pale yellow-green tones, a light peach beak, round dark eyes, and a cute curious expression. It looks like a small charming pet lovebird with a lively but gentle personality.\n\nThe lovebird gently taps and presses an underwater aquarium keyboard using its tiny beak and feet. It curiously pecks the transparent keycaps, tilts its head as if examining the tiny world inside, and softly steps on the keys one by one in a slow and delicate rhythm.\n\nEach square keycap is a transparent miniature seawater tank filled with crystal-clear water, tiny swaying aquatic plants, soft sand, small beach shells, and miniature fish such as clownfish and goldfish. Whenever the parrot taps or presses a keycap, the water inside creates soft ripples, the fish sway gently, and the tiny plants move naturally.\n\nThe keyboard sits on a dark walnut desk with a subtle sandy texture. Minimalist dark background, clean composition, cinematic soft lighting, macro lens, shallow depth of field, crisp focus on the aquarium keycaps, the parrot’s beak, tiny claws, and delicate feather textures.\n\nThe bird’s motion is slow, curious, delicate, and soothing. Show close-up moments of the lovebird tilting its head, pecking the glass-like keycaps, lightly stepping across the keyboard, and watching the tiny fish move inside the transparent keys.\n\nASMR audio focus: crisp glass tapping sounds from the beak, soft keyboard press sounds, delicate claw tapping sounds, subtle watery swishing, gentle underwater ambience, soft feather rustling, and tiny movement sounds. Each peck creates a clear soft “tok tok” glass sound, followed by a subtle “click” and a light “swoosh” of water movement.\n\nHyper-realistic feather textures, realistic bird anatomy, natural water physics, realistic reflections, beautiful refraction inside the keycaps, calming luxury ASMR mood, photorealistic, ultra-detailed, cinematic, 4K.\n\nNegative prompt: blurry, low detail, cartoon, deformed bird anatomy, oversized beak, extra limbs, distorted keyboard, messy composition, harsh lighting, unrealistic water, oversaturated colors, human hands, human presence",
+      "intermediateImages": [],
+      "finalImages": [],
+      "videos": [
+        {
+          "id": "6cc2f126-e43c-4b4f-bb3c-74155a7bc0b0",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/videos/6cc2f126-e43c-4b4f-bb3c-74155a7bc0b0-A0pfApth5dqYfuT3yujg4rxxsshuxE.mp4",
+          "name": "01-A highly realistic ultra-detailed ASMR v.mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "createdAt": "2026-09-23T11:50:50.548Z"
+    },
+    {
       "id": "bbdaec86-7975-4a1f-9505-2113f147bbcc",
       "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
       "author": "김민정",
