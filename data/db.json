@@ -18,6 +18,25 @@
   ],
   "submissions": [
     {
+      "id": "a0119807-5a21-424b-8b05-4138eabf389b",
+      "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
+      "author": "박소연",
+      "aiName": "Seedance 2.5 Draft",
+      "promptProcess": "A highly realistic ultra-detailed ASMR video, extreme close-up of a human hand gently tapping and pressing an underwater aquarium keyboard. Each square keycap is a transparent miniature seawater tank filled with clear water, tiny swaying aquatic plants, small beach shells, and miniature fish such as clownfish and goldfish. When the fingertips tap and press the keycaps, the water inside ripples softly, the fish sway gently, and the tiny plants move naturally.\n\nThe keyboard sits on a dark walnut desk with a subtle sandy texture. Minimalist dark background, clean composition, cinematic soft lighting, macro lens, shallow depth of field, crisp focus on the aquarium keycaps and fingertips. The motion is delicate, slow, and soothing, emphasizing tactile ASMR sensations.\n\nASMR audio focus: crisp glass tapping sounds, soft keyboard pressing sounds, subtle watery swishing, tiny fish movement sounds, gentle underwater ambience. The finger taps should create clear “dong dong” glass sounds, soft “click” key press sounds, light “swoosh” water movement, and delicate rubbing sounds as the fish brush against the tank walls.\n\nHyper-realistic textures, natural water physics, realistic reflections, beautiful refraction inside the keycaps, calming luxury ASMR mood.",
+      "content": "교수님과 동일한 프롬프트 사용",
+      "intermediateImages": [],
+      "finalImages": [],
+      "videos": [
+        {
+          "id": "bf660bd0-37ad-4cc1-8076-ccbf39319bc1",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/videos/bf660bd0-37ad-4cc1-8076-ccbf39319bc1-MNZJ9IECje54tV1qOH9qZOWW8VckwR.mp4",
+          "name": "hf_20260923_112648_aefd7909-f857-434c-9493-265f04d1c2d2.mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "createdAt": "2026-09-23T11:45:33.509Z"
+    },
+    {
       "id": "2aa85ae2-9362-4411-bc27-5fa5ee5d757f",
       "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
       "author": "박소연",
