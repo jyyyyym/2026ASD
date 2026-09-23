@@ -18,6 +18,25 @@
   ],
   "submissions": [
     {
+      "id": "9afd2c08-30bc-4e56-9741-d3169baa7202",
+      "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
+      "author": "최윤서",
+      "aiName": "Higgsfield_Seedance 2.5",
+      "promptProcess": "A highly realistic cinematic ASMR video, extreme macro close-up of a human finger gently pressing transparent aquarium keyboard keycaps.\n\nEach keycap is a miniature underwater aquarium filled with crystal-clear water, tiny colorful fish, especially orange-and-white clownfish and small goldfish, delicate green aquatic plants, miniature seashells, white sand, and tiny coral decorations.\n\nAs the fingertip slowly presses each transparent keycap, the keycap physically moves downward like a real mechanical keyboard. The water inside the miniature aquarium reacts naturally to the pressure, creating delicate circular ripples and subtle waves. The tiny fish gently swim and sway with the movement of the water, while aquatic plants softly move underwater.\n\nFocus on the tactile interaction between the fingertip and the aquarium keycap. Show the finger pressing one key at a time in slow motion, with realistic water physics, glass reflections, refraction, tiny bubbles, and detailed underwater textures.\n\nThe keyboard is placed on a dark walnut wooden desk with a subtle natural texture. Minimalist dark background, luxurious and calming atmosphere, cinematic soft lighting, realistic reflections, shallow depth of field, macro photography, crisp focus on the fingertip and transparent aquarium keycaps, softly blurred background.\n\nSlow, delicate, satisfying hand movements, relaxing ASMR visual style, hyper-realistic, photorealistic, physically accurate water simulation, realistic fish movement, realistic glass refraction, ultra-detailed textures.\n\nASMR sound design: clear soft “dong dong” glass tapping sounds, satisfying mechanical key clicks, subtle watery swishing sounds, delicate bubbling, gentle underwater ambience. Each key press produces a distinct soft glass resonance followed by a quiet mechanical click.\n\nNo text, no subtitles, no music, no distortion, no extra fingers, no deformed hands, no floating objects, no unnatural fish movement.",
+      "content": "물고기 모양의 키보드를 누르는 영상",
+      "intermediateImages": [],
+      "finalImages": [],
+      "videos": [
+        {
+          "id": "ebaa3399-a806-4b91-928d-684d36f855f3",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/videos/ebaa3399-a806-4b91-928d-684d36f855f3-9iahAyXh0hgzyvgRmfjpDhqDmSe7Nk.mp4",
+          "name": "01-A highly realistic cinematic ASMR video,.mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "createdAt": "2026-09-23T11:45:42.004Z"
+    },
+    {
       "id": "a0119807-5a21-424b-8b05-4138eabf389b",
       "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
       "author": "박소연",
