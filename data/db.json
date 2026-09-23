@@ -18,6 +18,25 @@
   ],
   "submissions": [
     {
+      "id": "61c53a45-1db8-4175-a8fe-8a6576769632",
+      "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
+      "author": "눈결정 키보드 ASMR",
+      "aiName": "seedance 2.0",
+      "promptProcess": "A highly realistic ultra-detailed ASMR video, extreme close-up of a human hand gently tapping and pressing a snowflake keyboard. Each square keycap is a transparent glass cube like a miniature snow globe, filled with clear liquid and tiny floating snowflakes, delicate ice crystals, and fine glittering frost particles. A few keycaps hold a tiny detailed snowflake crystal suspended in the center. When the fingertips tap and press the keycaps, the snow inside swirls up softly, then slowly drifts back down like a gentle snowfall, and the glitter catches the light as it falls.\n\nThe keyboard sits on a dark walnut desk lightly dusted with fine powdery snow, with a few small frost patterns on the surface. Minimalist dark background, clean composition, cool cinematic soft lighting in pale blue and silver tones with a subtle warm highlight on the fingertips, macro lens, shallow depth of field, crisp focus on the snowflake keycaps and fingertips. The motion is delicate, slow, and soothing, emphasizing a calm, wintry ASMR mood.\n\nASMR audio focus: crisp, clear glass tapping sounds, soft keyboard pressing sounds, faint tinkling of tiny ice crystals, gentle swirling liquid sounds, and a quiet crunch of powdery snow under the fingertips on the desk. The taps should create bright \"ting ting\" glass sounds, soft \"click\" key presses, light \"shhh\" snow swirling sounds, and delicate crystal chimes.\n\nHyper-realistic textures, natural floating particle physics, realistic reflections, beautiful icy refraction inside the keycaps, serene and dreamy luxury winter ASMR mood.",
+      "content": "화면 비율 16:9\n720p",
+      "intermediateImages": [
+        {
+          "id": "a8164ec3-59d5-46c7-b68f-e576249d38cb",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/videos/a8164ec3-59d5-46c7-b68f-e576249d38cb-YryyW1ghTg3ghJtfSDnz98s06NxQMf.mp4",
+          "name": "01-A highly realistic ultra-detailed ASMR v.mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "finalImages": [],
+      "videos": [],
+      "createdAt": "2026-09-23T11:44:42.774Z"
+    },
+    {
       "id": "2aa85ae2-9362-4411-bc27-5fa5ee5d757f",
       "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
       "author": "박소연",
