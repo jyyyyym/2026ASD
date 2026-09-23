@@ -18,6 +18,25 @@
   ],
   "submissions": [
     {
+      "id": "bbdaec86-7975-4a1f-9505-2113f147bbcc",
+      "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
+      "author": "김민정",
+      "aiName": "c",
+      "promptProcess": "기존의 “투명 수족관 키캡 + 손가락 탭핑” 구조는 유지하면서, 분위기와 소재를 확실히 달리한 방향으로 바꿔봄.  심해·밤바다·몽환적인 바이올루미네선스를 강조해서 기존의 밝고 귀여운 미니 수족관 이미지에서 시네마틱하게 바꿈 \n “귀여운 Aquarium Keyboard” → “럭셔리 심해 오브제”로 바뀌어서 영상 생성",
+      "content": "A highly realistic ultra-detailed cinematic ASMR video, extreme macro close-up of a human hand slowly typing on a luxury deep-ocean aquarium keyboard.\n\nEach individual keycap is made of crystal-clear glass and contains a miniature deep-sea ecosystem suspended in dark midnight-blue seawater. Inside the tiny transparent keys are delicate translucent jellyfish, glowing plankton, tiny silver fish, miniature coral branches, drifting sea grass, and microscopic bubbles.\n\nAs the fingertips gently tap and press each key, the miniature underwater world reacts naturally: jellyfish softly pulse and float upward, schools of tiny fish shift direction, sea grass bends with the water current, suspended bubbles drift through the tank, and subtle waves ripple across the water.\n\nEvery pressed key produces a slight physical displacement of the water, creating realistic refraction, caustic light patterns, and tiny internal currents.\n\nThe keyboard rests on a matte black stone desk with subtle wet reflections. The surrounding environment is almost completely dark, illuminated only by soft cyan-blue underwater light and faint bioluminescent glow coming from inside the keycaps.\n\nExtreme macro cinematography, 100mm macro lens, very shallow depth of field, slow cinematic camera movement, razor-sharp focus on fingertips and individual aquarium keys, creamy background bokeh, realistic skin texture, microscopic condensation on the glass.\n\nLuxury cinematic lighting, deep blacks, midnight navy tones, subtle turquoise highlights, soft volumetric glow, elegant minimal composition.\n\nMotion should be extremely slow, gentle and hypnotic, emphasizing tactile interaction between fingertips, glass, water and marine life.\n\nASMR AUDIO:\ncrisp hollow crystal tapping — “dong… dong…”\nsoft mechanical key press — “click…”\ngentle underwater water movement — “swoosh…”\ntiny bubbles — subtle “blup… blup…”\ndelicate glass rubbing and fingertip friction\nvery quiet deep underwater ambience\n\nNo music, no talking, no sudden movements.\n\nHyper-realistic water physics, physically accurate refraction, realistic glass thickness, natural marine movement, microscopic bubbles, subtle underwater caustics, premium luxury ASMR aesthetic, calming, mysterious, immersive.",
+      "intermediateImages": [],
+      "finalImages": [],
+      "videos": [
+        {
+          "id": "82d4cd40-e609-44fd-84ff-9f47a7d56c5b",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/videos/82d4cd40-e609-44fd-84ff-9f47a7d56c5b-GlqB2HAjErgEuO9bBiqdzj7l9Xj05p.mp4",
+          "name": "01-A highly realistic ultra-detailed cinema.mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "createdAt": "2026-09-23T11:48:29.634Z"
+    },
+    {
       "id": "1b060e5e-8389-4202-8a27-7793330cc2b4",
       "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
       "author": "양유정",
