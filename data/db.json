@@ -11,25 +11,5 @@
       "createdAt": "2026-09-22T21:31:25.807Z"
     }
   ],
-  "submissions": [
-    {
-      "id": "2fd67f53-4d1b-407e-8699-ecdeec3d2ddf",
-      "projectId": "f3b1e8ea-2f72-4e2e-bcab-6a839fd1886f",
-      "author": "공유테스트",
-      "aiName": "테스트",
-      "promptProcess": "저장 확인",
-      "content": "반 전체 저장 확인용. 곧 지움.",
-      "intermediateImages": [],
-      "finalImages": [
-        {
-          "id": "f5dcf222-e5a1-4f7f-9517-183d9d6ced1b",
-          "url": "https://raw.githubusercontent.com/jyyyyym/2026ASD/main/public/uploads/f5dcf222-e5a1-4f7f-9517-183d9d6ced1b.png",
-          "name": "share-test.png",
-          "mime": "image/png"
-        }
-      ],
-      "videos": [],
-      "createdAt": "2026-09-23T03:58:20.474Z"
-    }
-  ]
+  "submissions": []
 }
