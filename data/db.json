@@ -18,6 +18,25 @@
   ],
   "submissions": [
     {
+      "id": "3dd737ec-928e-4127-8ad3-0aef836a56cc",
+      "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
+      "author": "박혜원",
+      "aiName": "Higgsfield",
+      "promptProcess": "Seedance 2.5 / 교수님께서 공유해주신 프롬프트 그대로 사용하였습니다. \n\n-\n\nA hyper-realistic ultra-detailed ASMR video in extreme macro perspective. A sharp chef’s knife slowly slices through a flawless glass fruit shaped like a ripe mango. The fruit has translucent crystal-clear flesh, and inside it, the words “EWHA ASD” are clearly engraved and softly glowing.\n\n\n\nThe glass mango rests on a wooden cutting board under warm cinematic lighting. Each slow, deliberate cut is captured in extreme close-up, showing the blade gliding smoothly through the transparent glass texture. The surface reflects light beautifully, with subtle sparkling shards and delicate refractions appearing along the cut line.\n\n\n\nAs the knife passes through the engraved section, the letters “EWHA ASD” remain clearly visible, refracting through the glass and splitting into glowing crystalline reflections. Keep the text elegant, centered, and legible inside the fruit.\n\n\n\nThe background is softly blurred with shallow depth of field, keeping full focus on the cutting action, the engraved glowing text, and the shimmering glass texture.\n\n\n\nAudio: pure ASMR only — crisp glass slicing, delicate friction, tiny sparkling crackles, and the soft tap of the knife against the wooden board. No music, no narration, no background distractions.\n\n\n\nOne continuous shot, steady camera, mesmerizing and realistic.",
+      "content": "교수님께서 샘플로 보여주신 영상과 다르게 나온 것 같아서 공유드려 봅니다. \n같은 프롬프트로도 다양한 아웃풋이 나오는게 신기했습니다.",
+      "intermediateImages": [],
+      "finalImages": [],
+      "videos": [
+        {
+          "id": "abb2d489-a6cd-4015-b452-63978b437ff0",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/videos/abb2d489-a6cd-4015-b452-63978b437ff0-7myMhRXkhwIERtaHZIF9xxD6HX8E8p.mp4",
+          "name": "01-A hyper-realistic ultra-detailed ASMR vi.mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "createdAt": "2026-09-23T11:44:14.552Z"
+    },
+    {
       "id": "dedae92f-f0e8-4eb4-bf25-12924f85a831",
       "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
       "author": "장민",
