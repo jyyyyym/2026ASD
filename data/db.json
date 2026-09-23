@@ -18,6 +18,25 @@
   ],
   "submissions": [
     {
+      "id": "1b060e5e-8389-4202-8a27-7793330cc2b4",
+      "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
+      "author": "양유정",
+      "aiName": "Higgsfield",
+      "promptProcess": "A highly realistic ultra-detailed ASMR video, extreme close-up of a human hand gently tapping and pressing an Crystal Keyboard. Each square keycap is a transparent miniature seawater tank filled with clear water, tiny swaying aquatic plants, small beach shells, and miniature fish such as clownfish and goldfish. When the fingertips tap and press the keycaps, the water inside ripples softly, the fish sway gently, and the tiny plants move naturally. The keyboard sits on a dark walnut desk with a subtle sandy texture. Minimalist dark background, clean composition, cinematic soft lighting, macro lens, shallow depth of field, crisp focus on the aquarium keycaps and fingertips. The motion is delicate, slow, and soothing, emphasizing tactile ASMR sensations. ASMR audio focus: crisp glass tapping sounds, soft keyboard pressing sounds, subtle watery swishing, tiny fish movement sounds, gentle underwater ambience. The finger taps should create clear “dong dong” glass sounds, soft “click” key press sounds, light “swoosh” water movement, and delicate rubbing sounds as the fish brush against the tank walls. Hyper-realistic textures, natural water physics, realistic reflections, beautiful refraction inside the keycaps, calming luxury ASMR mood.",
+      "content": "Seedance 2.0",
+      "intermediateImages": [],
+      "finalImages": [],
+      "videos": [
+        {
+          "id": "72f1ba94-dea1-428b-a0c2-660d04f707aa",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/videos/72f1ba94-dea1-428b-a0c2-660d04f707aa-PihkS5wIFiEAtux6ZlT306x7urcsBL.mp4",
+          "name": "01-A highly realistic ultra-detailed ASMR v.mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "createdAt": "2026-09-23T11:48:28.616Z"
+    },
+    {
       "id": "2c238fde-66f0-4559-93de-656cc9174ba2",
       "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
       "author": "조현주",
