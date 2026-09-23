@@ -9,9 +9,33 @@
       "id": "d60ed9f2-72ab-463d-a573-3a997f725005",
       "slug": "케이크",
       "createdAt": "2026-09-22T21:31:25.807Z"
+    },
+    {
+      "id": "01a360ed-380c-439a-8bfe-120b0ef76589",
+      "slug": "비디오1",
+      "createdAt": "2026-09-23T11:44:36.447Z"
     }
   ],
   "submissions": [
+    {
+      "id": "2aa85ae2-9362-4411-bc27-5fa5ee5d757f",
+      "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
+      "author": "박소연",
+      "aiName": "Seedance 2.5 Draft",
+      "promptProcess": "Cinematic, photorealistic video. A modern Korean news studio interior with a clean, professional design. Large LED panels glow softly in the background, showing animated graphics and a scrolling news ticker. On the ticker, the words “속보: AI시대의 서비스 디자인 수업 휴강” are displayed in Korean.\n\nAt the center of the frame sits a poised Korean news anchor, wearing a formal suit, looking directly into the camera with a calm and confident expression. The anchor holds a few cue cards and begins speaking in clear Korean with a natural broadcast tone:\n\n“오늘의 속보를 알려드립니다. 추석 연휴를 맞아 AI시대의 서비스 디자인 수업이 휴강한다고 합니다.”\n\nLighting is bright and evenly balanced, highlighting the anchor’s face and creating a professional newsroom atmosphere. The camera angle is a steady medium shot, slightly zooming in as the anchor delivers the breaking news. A lower-third graphic appears on screen with bold Korean text:\n\n“속보 - AI시대의 서비스 디자인 휴강”",
+      "content": "오타가 났어요,,",
+      "intermediateImages": [],
+      "finalImages": [],
+      "videos": [
+        {
+          "id": "931baece-dba4-462f-b02b-3b1396dc686c",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/videos/931baece-dba4-462f-b02b-3b1396dc686c-DWqKNVLCHsPb3Uqy9RlSM5pmUAUj24.mp4",
+          "name": "hf_20260923_110623_2067c028-141c-4e85-a83d-7305fb1c08db.mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "createdAt": "2026-09-23T11:44:36.447Z"
+    },
     {
       "id": "5e42be39-b182-4da6-a788-55bf115e88e6",
       "projectId": "f3b1e8ea-2f72-4e2e-bcab-6a839fd1886f",
