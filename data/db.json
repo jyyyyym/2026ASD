@@ -18,6 +18,25 @@
   ],
   "submissions": [
     {
+      "id": "aadd72b8-5f60-41c6-b9ff-0d9f1351dba3",
+      "projectId": "f3b1e8ea-2f72-4e2e-bcab-6a839fd1886f",
+      "author": "이수빈",
+      "aiName": "미드저니",
+      "promptProcess": "A beautiful East Asian catgirl, long flowing dark brown hair, natural fluffy feline ears, thin black round-frame glasses, calm gentle expression, warm brown eyes, holding a small piece of dark chocolate near her lips, wearing an oversized cream-white sweater, a fluffy pure white long-haired cat sitting closely beside her, vivid sapphire-blue eyes, intimate close-up portrait, simple solid dark chocolate-brown background, monochromatic cocoa backdrop with subtle soft tonal gradient, no objects, no furniture, no scenery, strong contrast between ivory clothing, white fur and rich cocoa background, warm soft studio lighting, golden highlights on her face and hair, highly detailed 2D illustration, semi-realistic anime aesthetic, refined hand-drawn linework, painterly shading, subtle cel shading, textured brush strokes, detailed hair strands, delicate fur texture, cinematic lighting, expressive eyes, sophisticated character design, warm color grading, hd quality, natural look",
+      "content": ".",
+      "intermediateImages": [],
+      "finalImages": [
+        {
+          "id": "39c8102b-8632-4d1b-8186-b216fbf1b3a3",
+          "url": "https://raw.githubusercontent.com/jyyyyym/2026ASD/main/public/uploads/39c8102b-8632-4d1b-8186-b216fbf1b3a3.jpg",
+          "name": "나를 이미지화.jpg",
+          "mime": "image/jpeg"
+        }
+      ],
+      "videos": [],
+      "createdAt": "2026-09-23T11:55:56.847Z"
+    },
+    {
       "id": "e5566275-1cc5-480f-8406-345cdc1efc97",
       "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
       "author": "최지연",
