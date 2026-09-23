@@ -11,5 +11,38 @@
       "createdAt": "2026-09-22T21:31:25.807Z"
     }
   ],
-  "submissions": []
+  "submissions": [
+    {
+      "id": "9688da62-eb23-445e-942e-cccbc7e83b3c",
+      "projectId": "f3b1e8ea-2f72-4e2e-bcab-6a839fd1886f",
+      "author": "이윤수",
+      "aiName": "Midjourney",
+      "promptProcess": "Use the attached logo as a reference, and reinterpret only the hummingbird figure from the logo in a dreamy dreamcore style.\nKeep the overall hummingbird silhouette, pose, and recognizable shape from the original logo clearly intact, but transform it into a soft, surreal, dreamy visual.\n\nCreate a square 1:1 composition.\nThe hummingbird should be the main subject, centered or slightly floating in the frame, with a whimsical, nostalgic, dreamlike atmosphere.\n\nApply a rich velvet texture to the hummingbird body and wings, making it look soft, plush, slightly luminous, and tactile.\nSurround the hummingbird with a dreamcore night-sky environment: soft glowing stars, fluffy clouds, hazy moonlight, dreamy gradients, misty air, subtle sparkles, and a surreal midnight sky.\n\nThe mood should feel soft, emotional, nostalgic, ethereal, surreal, and slightly magical, with a comforting but uncanny dreamcore aesthetic.\nUse a palette of deep navy, midnight blue, lavender, dusty pink, soft peach, muted coral, warm beige, and faint silver highlights.\n\nThe image should feel like a velvety dreamscape illustration rather than a flat logo.\nKeep the hummingbird elegant and iconic, but enhance it with dreamy textures and atmospheric lighting.\n\nNo typography, no badge frame, no logo text, no extra branding.\nFocus only on the hummingbird and the surrounding dreamcore sky elements.\n\nHighly detailed, soft lighting, soft glow, velvet fabric texture, dreamy clouds, sparkling stars, surreal night atmosphere, clean composition, visually poetic, premium illustration.",
+      "content": "ChatGPT의 미드저니 V6 미드저니 프롬프트 생성을 통해, 제 사업자 로고를 첨부하여 드림코어 느낌으로 생성하기 위한 프롬프트를 생성하고, 미드저니에서는 pinterest를 통해 서치한 드림코어 이미지를 무드보드화하여, 생성하였습니다. 1차로 생성된 이미지의 텍스트를 edit 기능을 이용해 지우고, 부분적으로 큐빅을 더 추가해달라고 명령하였습니다.",
+      "intermediateImages": [],
+      "finalImages": [
+        {
+          "id": "5af0439e-4828-4f7d-8e6e-8715274dfa06",
+          "url": "https://raw.githubusercontent.com/jyyyyym/2026ASD/main/public/uploads/5af0439e-4828-4f7d-8e6e-8715274dfa06.jpg",
+          "name": "ysl882_98923_add_more_cubic_and_glow_--ar_11_--profile_g6c1vr_a7f983bb-44cf-4c75-b0d7-f233e3e06269_3.jpg",
+          "mime": "image/jpeg"
+        },
+        {
+          "id": "4889df73-d0cb-4725-984f-95662f7b97c5",
+          "url": "https://raw.githubusercontent.com/jyyyyym/2026ASD/main/public/uploads/4889df73-d0cb-4725-984f-95662f7b97c5.jpg",
+          "name": "ysl882_98923_no_text_--ar_11_--profile_g6c1vrx_13o6w54_--edit_95e43e1e-d1ad-4473-b8ee-15f67f9ec6e0_1.jpg",
+          "mime": "image/jpeg"
+        }
+      ],
+      "videos": [
+        {
+          "id": "acb5e4d6-a76e-4f5b-97a3-b183546e3ebd",
+          "url": "https://raw.githubusercontent.com/jyyyyym/2026ASD/main/public/uploads/acb5e4d6-a76e-4f5b-97a3-b183546e3ebd.mp4",
+          "name": "social_ysl882_98923_bird_flap_its_wings_static_camera_glowing_stars__eaf13a97-c6d0-4488-b638-c983ee726f2d_3 (1).mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "createdAt": "2026-09-23T04:02:10.204Z"
+    }
+  ]
 }
