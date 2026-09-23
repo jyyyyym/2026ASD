@@ -18,6 +18,25 @@
   ],
   "submissions": [
     {
+      "id": "f7ddc0e7-5a88-4cf4-83f6-538d082e6412",
+      "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
+      "author": "김예림",
+      "aiName": "Higgsfield",
+      "promptProcess": "A highly realistic ultra-detailed ASMR video, extreme close-up of a human hand gently tapping and pressing a futuristic space-themed keyboard. Each square keycap is a transparent miniature cosmic chamber, like a tiny glass universe sealed inside every keycap.\n\nEvery keycap contains a different miniature cosmic scene:\nsome keys contain tiny crescent moons surrounded by sparkling stars,\nsome contain miniature Saturn-like planets with delicate glowing rings,\nsome contain small blue and purple planets,\nsome contain tiny realistic Earth-like planets,\nsome contain colorful blue and violet nebula clouds,\nsome contain miniature spiral galaxies,\nsome contain meteor showers with tiny glowing shooting stars,\nand some are filled with countless shimmering cosmic dust particles and stars.\n\nThe cosmic elements are suspended weightlessly inside the transparent glass keycaps. Each miniature universe has incredible depth, with stars appearing at different distances inside the chambers. Tiny planets slowly float, rotate subtly, and drift naturally. Nebula clouds gently swirl, cosmic dust slowly moves, and miniature stars softly twinkle.\n\nWhen the fingertips gently tap and press each keycap, the miniature universe inside that key subtly reacts to the movement. Tiny planets gently wobble and drift, Saturn's rings slightly vibrate, crescent moons sway delicately, cosmic dust ripples outward, nebula clouds softly swirl, and tiny stars shimmer as if disturbed by a gentle gravitational wave. The movement is subtle, slow, elegant, and physically believable — never explosive or exaggerated.\n\nEach keypress feels like gently disturbing a tiny universe trapped inside glass.\n\nThe keyboard sits on a luxurious dark walnut desk with a subtle satin and fine-grain texture. Minimalist deep-black background resembling outer space. Clean sophisticated composition, cinematic soft lighting, subtle blue, violet, indigo, and faint pink cosmic glow.\n\nExtreme macro photography, macro lens, extremely shallow depth of field, crisp focus on the fingertips and transparent aquarium-like cosmic keycaps, beautiful bokeh in the background.\n\nThe transparent glass keycaps feature hyper-realistic reflections, refractions, internal light scattering, subtle caustics, realistic optical distortion, delicate glass edges, and realistic depth. The planets have detailed realistic surfaces, tiny craters, atmospheric layers, and subtle reflections. Nebulae have soft volumetric clouds and luminous gas structures. Stars emit tiny realistic points of light.\n\nASMR audio focus: crisp resonant glass tapping sounds, soft mechanical keyboard pressing sounds, delicate crystalline “dong” sounds, subtle “click” keypress sounds, gentle airy cosmic “swoosh” sounds when planets and cosmic dust move, tiny sparkling star sounds, soft low-frequency deep-space ambience, delicate shimmering sounds as miniature celestial objects drift inside the glass.\n\nEvery fingertip tap produces a satisfying clear glass “dong dong” followed by a soft mechanical “click”, while the miniature universe inside the keycap responds with subtle floating, shimmering, and swirling sounds.\n\nThe overall mood is calming, luxurious, mesmerizing, futuristic, dreamy, sophisticated, and deeply satisfying. It should feel like a collection of tiny living universes inside a premium glass keyboard.\n\nHyper-realistic textures, realistic cosmic physics, natural floating motion, physically accurate glass, beautiful refraction, realistic reflections, cinematic lighting, photorealistic, ultra-detailed, 8K macro cinematography, luxury futuristic ASMR, no text, no logos, no cartoon style, no exaggerated sci-fi effects.",
+      "content": "우주 키보드",
+      "intermediateImages": [],
+      "finalImages": [],
+      "videos": [
+        {
+          "id": "4c90a964-6afd-4bfb-b1e0-73bed6305377",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/videos/4c90a964-6afd-4bfb-b1e0-73bed6305377-sAQPv8QW3sQvnfJQe4a0RlxNxOFFP3.mp4",
+          "name": "4d1e0b82-efe3-4f22-8c59-7f79221cf277.mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "createdAt": "2026-09-23T11:50:58.046Z"
+    },
+    {
       "id": "bfb4dcc1-ce29-4b4a-ba38-f3e955cfdf58",
       "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
       "author": "임이영",
