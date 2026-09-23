@@ -18,6 +18,25 @@
   ],
   "submissions": [
     {
+      "id": "47b769db-5319-4695-8da6-c6b0084fcaf4",
+      "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
+      "author": "김현영",
+      "aiName": "Higgsfield-Seedance2.0",
+      "promptProcess": "말랑말랑 마시멜로 키보드로 프롬프트 짜달라고 했더니 성적 이슈로... (말랑말랑, 가루 등의 표현) 정책상 생성 거절이 돼서 필터링 된 프롬프트로 다시 짜달라고 해서 생성...\n\nCinematic product macro video, high-detail slow motion of hands typing on a novelty mechanical keyboard inspired by fluffy marshmallows. Each key is designed like a soft pastel confection in matte white, pastel pink, and soft cream with rounded corners and velvety finish.\n\nWhen typing, the bouncy keys compress smoothly and gently spring back with soft elastic foam physics. The keyboard sits on a tidy minimalist wooden desk. Warm soft lighting, shallow depth of field, crisp focus on the fluffy confectionery keycaps and typing fingers. Calm, cozy, and rhythmic motion.\n\nTactile ASMR audio: ultra-clean muted typing sounds, soft hollow thuds, gentle foam damping acoustic tones, quiet low-frequency key bottoming sound without harsh clicks.\n\nCute culinary aesthetic, hyper-realistic soft foam textures, smooth mechanical rebound, satisfying and cozy mood.",
+      "content": "마시멜로 키보드 누르기",
+      "intermediateImages": [],
+      "finalImages": [],
+      "videos": [
+        {
+          "id": "313d95ae-f7ba-4171-aa7f-ecc530b524d4",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/videos/313d95ae-f7ba-4171-aa7f-ecc530b524d4-TowtMwiWq8EYngE1mBhP1xyLx8xan2.mp4",
+          "name": "01-Cinematic product macro video, high-deta.mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "createdAt": "2026-09-23T11:51:28.621Z"
+    },
+    {
       "id": "f7ddc0e7-5a88-4cf4-83f6-538d082e6412",
       "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
       "author": "김예림",
