@@ -18,6 +18,25 @@
   ],
   "submissions": [
     {
+      "id": "2c238fde-66f0-4559-93de-656cc9174ba2",
+      "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
+      "author": "조현주",
+      "aiName": "힉스필드",
+      "promptProcess": "A highly realistic, ultra-detailed cinematic ASMR video, extreme macro close-up of a human hand slowly tapping and pressing a luxurious honey-filled keyboard.\n\nThe entire keyboard is made of translucent golden honey. Each square keycap looks like a soft, crystal-clear honey capsule, slightly elastic and glossy, completely filled with thick, rich, glowing amber honey. Inside several individual honey keycaps, tiny realistic honeybees are peacefully sleeping, curled gently inside the warm golden honey chambers.\n\nAs a fingertip slowly presses down on each honey key, the soft keycap compresses deeply and stretches under the pressure. The thick honey inside shifts and bulges naturally around the fingertip.\n\nAt the exact moment of maximum pressure, the honey keycap suddenly pops with a satisfying soft “TOK!” sensation, like a delicate honey bubble bursting.\n\nThe thin transparent honey membrane splits open and a small amount of thick golden honey gently bursts outward, forming glossy droplets and long sticky honey strands in slow motion.\n\nWhen the keycap pops, the tiny sleeping bee inside suddenly wakes up, slowly stretches its wings, shakes off tiny sparkling droplets of honey, and gently flies out of the opened keycap. The bee safely flies upward and away from the keyboard.\n\nEach pressed key creates the same satisfying sequence:\n\ngentle fingertip touch → soft honey compression → keycap swelling → sudden “TOK!” pop → thick honey bursting → sticky honey strands stretching → sleeping bee waking up → wings fluttering → bee peacefully flying away.\n\nThe honey should behave with realistic high-viscosity physics: thick, sticky, elastic, glossy, slow-moving, and beautifully translucent. Honey stretches between the fingertip and broken keycap before slowly snapping into tiny golden droplets.\n\nThe keyboard sits on a luxurious dark walnut desk, creating a strong contrast with the glowing amber honey. Minimalist dark background, clean composition, cinematic warm lighting, dramatic reflections, beautiful golden translucency, macro lens, extremely shallow depth of field, crisp focus on fingertips and honey keycaps.\n\nCamera remains extremely close to the keyboard, emphasizing tactile textures, honey viscosity, tiny air bubbles, reflections, refraction, sticky surfaces, and delicate bee wing details.\n\nThe hand movements are extremely slow, delicate, controlled, and soothing. Press only one key at a time so every individual honey burst is clearly visible.\n\nASMR AUDIO FOCUS:\n\nDeep soft fingertip tapping on sticky honey surfaces.\n\nClear satisfying “tok, tok” popping sounds whenever a honey keycap bursts.\n\nSoft sticky “plop” sounds as thick honey releases from the key.\n\nGentle “squish” and “squash” sounds while the honey key compresses.\n\nSubtle sticky stretching and peeling sounds as honey strands pull away from the fingertips.\n\nTiny delicate buzzing sounds when each sleeping bee wakes up.\n\nSoft realistic wing fluttering as the bee flies away.\n\nNo music, no talking, no background noise.\n\nOnly immersive close-up honey keyboard ASMR sounds.\n\nHyper-realistic macro textures, physically accurate thick honey simulation, realistic sticky fluid dynamics, detailed honey reflections, translucent golden glow, tiny suspended air bubbles, photorealistic honeybees, natural bee wing movement, cinematic slow motion, luxurious sensory aesthetic, premium viral ASMR video, satisfying tactile experience, 8K photorealism.\n\nIMPORTANT:\nThe keyboard must clearly be made from individual honey-filled keycaps.\nThe keycaps should remain recognizable as keyboard keys before being pressed.\nOnly the key being pressed should burst.\nThe other keys must remain perfectly intact.\nThe honey should burst softly and beautifully, not explosively.\nThe bees must appear peaceful and unharmed.\nEach bee wakes up only after its own honey keycap pops, then naturally flies away.\nNo aggressive bees, no swarm attacking the hand, no horror, no injury, no gore, no cartoon style.",
+      "content": "투명한 꿀 키보드 + 톡 터지는 허니 ASMR + 잠자던 벌이 깨어 날아가는 연출로 바꾼 버전으로 영상 생성 모델이 장면을 명확히 이해 하도록 눌림 → 팽창 → 파열 → 꿀 분출 → 벌 각성 → 비행 순서를 구체화",
+      "intermediateImages": [],
+      "finalImages": [],
+      "videos": [
+        {
+          "id": "07d396c1-ef5a-441c-8e27-3d151e16f610",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/videos/07d396c1-ef5a-441c-8e27-3d151e16f610-LLSwL57mpofRkssslc3LhngiKBgYEP.mp4",
+          "name": "01-A highly realistic, ultra-detailed cinem.mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "createdAt": "2026-09-23T11:48:20.393Z"
+    },
+    {
       "id": "fb02fc4c-abe1-44f6-895a-20f90f663776",
       "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
       "author": "박슬지",
