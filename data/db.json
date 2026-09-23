@@ -13,6 +13,45 @@
   ],
   "submissions": [
     {
+      "id": "266159be-1ade-4c00-9bac-f0b677d53ea9",
+      "projectId": "f3b1e8ea-2f72-4e2e-bcab-6a839fd1886f",
+      "author": "박소연",
+      "aiName": "Midjourney",
+      "promptProcess": "A top-down phenakistoscope-style circular animation image featuring a friendly golden retriever and a sleek black cat hugging in a continuous loop, repeated character poses arranged around a central sun symbol, from sitting apart to leaning closer, touching noses, hugging, cuddling, and returning apart. Extremely simple hand-drawn cartoon style with wonky proportions, chunky black outlines, slightly shaky pen strokes, flat opaque colors and intentionally amateurish charm. Bright green background, tan circular floor pattern, blue borders, little yellow stars, orange flowers and crooked miniature houses scattered around the disc. Created Using: ink pen illustration, children's marker drawing, naive art movement, folk poster graphics, flat gouache paint, irregular contour lines, primitive character design, vintage print colors, hand-colored animation frames, whimsical editorial graphics, paper texture, imperfect registration, hd quality, natural look --ar 1:1",
+      "content": "GPT V6 와 Image reference 활용\n(뭉개진 리트리버가 또렷해지지 않아서 속상..)",
+      "intermediateImages": [
+        {
+          "id": "3a430988-036a-449f-ba40-80007f0552eb",
+          "url": "https://raw.githubusercontent.com/jyyyyym/2026ASD/main/public/uploads/3a430988-036a-449f-ba40-80007f0552eb.jpg",
+          "name": "스타일시도1.jpg",
+          "mime": "image/jpeg"
+        },
+        {
+          "id": "91eade9a-92df-4181-97ab-aa148cdc8540",
+          "url": "https://raw.githubusercontent.com/jyyyyym/2026ASD/main/public/uploads/91eade9a-92df-4181-97ab-aa148cdc8540.jpg",
+          "name": "스타일시도2.jpg",
+          "mime": "image/jpeg"
+        }
+      ],
+      "finalImages": [
+        {
+          "id": "67f7c496-b083-46f0-88e2-b9654f3fd391",
+          "url": "https://raw.githubusercontent.com/jyyyyym/2026ASD/main/public/uploads/67f7c496-b083-46f0-88e2-b9654f3fd391.jpg",
+          "name": "최종.jpg",
+          "mime": "image/jpeg"
+        }
+      ],
+      "videos": [
+        {
+          "id": "f431fcb3-ba80-406b-9a1b-39ce9951a93e",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/videos/f431fcb3-ba80-406b-9a1b-39ce9951a93e-np1s4Hl7BBmXeTGqGTSEZXYbEZlj5z.mp4",
+          "name": "최종_영상화.mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "createdAt": "2026-09-23T07:02:50.028Z"
+    },
+    {
       "id": "9688da62-eb23-445e-942e-cccbc7e83b3c",
       "projectId": "f3b1e8ea-2f72-4e2e-bcab-6a839fd1886f",
       "author": "이윤수",
