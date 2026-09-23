@@ -18,6 +18,25 @@
   ],
   "submissions": [
     {
+      "id": "dedae92f-f0e8-4eb4-bf25-12924f85a831",
+      "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
+      "author": "장민",
+      "aiName": "Higgsfield Seedance2.0",
+      "promptProcess": "A highly realistic ultra-detailed ASMR video, extreme close-up of a human hand gently tapping and pressing an underwater aquarium keyboard. Each square keycap is a transparent miniature seawater tank filled with clear water, tiny swaying aquatic plants, small beach shells, and miniature fish such as clownfish and goldfish. When the fingertips tap and press the keycaps, the water inside ripples softly, the fish sway gently, and the tiny plants move naturally. The keyboard sits on a dark walnut desk with a subtle sandy texture. Minimalist dark background, clean composition, cinematic soft lighting, macro lens, shallow depth of field, crisp focus on the aquarium keycaps and fingertips. The motion is delicate, slow, and soothing, emphasizing tactile ASMR sensations. ASMR audio focus: crisp glass tapping sounds, soft keyboard pressing sounds, subtle watery swishing, tiny fish movement sounds, gentle underwater ambience. The finger taps should create clear “dong dong” glass sounds, soft “click” key press sounds, light “swoosh” water movement, and delicate rubbing sounds as the fish brush against the tank walls. Hyper-realistic textures, natural water physics, realistic reflections, beautiful refraction inside the keycaps, calming luxury ASMR mood. \n\n이거 기반으로 꿀 누르는 프롬프트 짜줘",
+      "content": "A highly realistic ultra-detailed ASMR video, extreme close-up of a human hand gently tapping and pressing a luxurious honey-filled keyboard. Each square keycap is a transparent miniature glass container filled with thick golden honey, with tiny suspended honey bubbles and delicate golden reflections inside. When the fingertips tap and press the keycaps, the honey slowly deforms and flows under pressure, creating soft ripples and viscous waves, then gently returns to its original shape.\n\nThe keyboard sits on a dark walnut desk with a subtle natural wood grain texture. Minimalist dark amber background, clean composition, cinematic warm soft lighting, macro lens, shallow depth of field, crisp focus on the transparent honey keycaps and fingertips. The motion is delicate, slow, and soothing, emphasizing the tactile ASMR sensation of pressing thick viscous honey.\n\nASMR audio focus: crisp glass tapping sounds, soft mechanical keyboard pressing sounds, thick sticky honey squishing sounds, subtle viscous stretching sounds, gentle sticky rubbing sounds. Each finger press creates a clear “dong dong” glass sound followed by a soft “squish” and slow sticky honey movement. The honey should sound thick, smooth, dense, and satisfying, with subtle syrupy stretching and delicate popping bubble sounds.\n\nHyper-realistic honey texture, natural viscosity and fluid dynamics, realistic transparency, golden amber color, beautiful light refraction through the honey, realistic reflections on the glass keycaps, tiny air bubbles suspended inside the honey, calming luxurious ASMR mood, satisfying tactile interaction, cinematic macro food photography, photorealistic, ultra detailed, 4K",
+      "intermediateImages": [],
+      "finalImages": [],
+      "videos": [
+        {
+          "id": "bd102a84-8010-439e-b267-89e9e3f8e780",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/videos/bd102a84-8010-439e-b267-89e9e3f8e780-gyZO3u9L2SUkI9iCfAQXu8uRCnFmgQ.mp4",
+          "name": "01-A highly realistic ultra-detailed ASMR v.mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "createdAt": "2026-09-23T11:43:41.751Z"
+    },
+    {
       "id": "2c07dacc-91cc-4489-83e8-0e789da2a220",
       "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
       "author": "김현영",
