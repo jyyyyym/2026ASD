@@ -18,6 +18,25 @@
   ],
   "submissions": [
     {
+      "id": "da627e32-cd92-4a84-9dcd-268d67dbfa13",
+      "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
+      "author": "최지연",
+      "aiName": "힉스필드",
+      "promptProcess": "A highly realistic ultra-detailed ASMR video, extreme close-up of a human hand gently tapping and pressing an underwater aquarium keyboard. Each square keycap is a transparent miniature seawater tank filled with clear water, tiny swaying aquatic plants, small beach shells, and miniature fish such as clownfish and goldfish. When the fingertips tap and press the keycaps, the water inside ripples softly, the fish sway gently, and the tiny plants move naturally.\n\nThe keyboard sits on a dark walnut desk with a subtle sandy texture. Minimalist dark background, clean composition, cinematic soft lighting, macro lens, shallow depth of field, crisp focus on the aquarium keycaps and fingertips. The motion is delicate, slow, and soothing, emphasizing tactile ASMR sensations.\n\nASMR audio focus: crisp glass tapping sounds, soft keyboard pressing sounds, subtle watery swishing, tiny fish movement sounds, gentle underwater ambience. The finger taps should create clear “dong dong” glass sounds, soft “click” key press sounds, light “swoosh” water movement, and delicate rubbing sounds as the fish brush against the tank walls.\n\nHyper-realistic textures, natural water physics, realistic reflections, beautiful refraction inside the keycaps, calming luxury ASMR mood.",
+      "content": "물고기 키캡",
+      "intermediateImages": [],
+      "finalImages": [],
+      "videos": [
+        {
+          "id": "f776cfd6-2f89-442e-a913-bce9e482a175",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/videos/f776cfd6-2f89-442e-a913-bce9e482a175-Gqis5qdM5uYEo1xIJwieLODHEY4NVV.mp4",
+          "name": "01-A highly realistic ultra-detailed ASMR v.mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "createdAt": "2026-09-24T02:21:18.596Z"
+    },
+    {
       "id": "74586e0a-2457-4697-8487-3744b68a01dc",
       "projectId": "01a360ed-380c-439a-8bfe-120b0ef76589",
       "author": "김예림",
