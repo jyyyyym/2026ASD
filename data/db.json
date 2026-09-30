@@ -14,6 +14,11 @@
       "id": "01a360ed-380c-439a-8bfe-120b0ef76589",
       "slug": "비디오1",
       "createdAt": "2026-09-23T11:39:00.978Z"
+    },
+    {
+      "id": "ai-toolkit-scout",
+      "slug": "AI toolkit scout",
+      "createdAt": "2026-09-30T08:00:00.000Z"
     }
   ],
   "submissions": [
@@ -34,7 +39,9 @@
           "mime": "video/mp4"
         }
       ],
-      "createdAt": "2026-09-24T02:21:18.596Z"
+      "createdAt": "2026-09-24T02:21:18.596Z",
+      "audios": [],
+      "documents": []
     },
     {
       "id": "74586e0a-2457-4697-8487-3744b68a01dc",
@@ -53,7 +60,9 @@
           "mime": "video/mp4"
         }
       ],
-      "createdAt": "2026-09-23T11:57:46.336Z"
+      "createdAt": "2026-09-23T11:57:46.336Z",
+      "audios": [],
+      "documents": []
     },
     {
       "id": "aadd72b8-5f60-41c6-b9ff-0d9f1351dba3",
@@ -72,7 +81,9 @@
         }
       ],
       "videos": [],
-      "createdAt": "2026-09-23T11:55:56.847Z"
+      "createdAt": "2026-09-23T11:55:56.847Z",
+      "audios": [],
+      "documents": []
     },
     {
       "id": "f804dfab-a975-42b9-8667-4b0f9f56ffa1",
@@ -91,7 +102,9 @@
           "mime": "video/mp4"
         }
       ],
-      "createdAt": "2026-09-23T11:51:29.455Z"
+      "createdAt": "2026-09-23T11:51:29.455Z",
+      "audios": [],
+      "documents": []
     },
     {
       "id": "f7ddc0e7-5a88-4cf4-83f6-538d082e6412",
@@ -110,7 +123,9 @@
           "mime": "video/mp4"
         }
       ],
-      "createdAt": "2026-09-23T11:50:58.046Z"
+      "createdAt": "2026-09-23T11:50:58.046Z",
+      "audios": [],
+      "documents": []
     },
     {
       "id": "bbdaec86-7975-4a1f-9505-2113f147bbcc",
@@ -129,7 +144,9 @@
           "mime": "video/mp4"
         }
       ],
-      "createdAt": "2026-09-23T11:48:29.634Z"
+      "createdAt": "2026-09-23T11:48:29.634Z",
+      "audios": [],
+      "documents": []
     },
     {
       "id": "2c238fde-66f0-4559-93de-656cc9174ba2",
@@ -148,7 +165,9 @@
           "mime": "video/mp4"
         }
       ],
-      "createdAt": "2026-09-23T11:48:20.393Z"
+      "createdAt": "2026-09-23T11:48:20.393Z",
+      "audios": [],
+      "documents": []
     },
     {
       "id": "106487b0-d3de-4050-a770-05684ddb3fa6",
@@ -167,7 +186,9 @@
           "mime": "video/mp4"
         }
       ],
-      "createdAt": "2026-09-23T11:47:15.024Z"
+      "createdAt": "2026-09-23T11:47:15.024Z",
+      "audios": [],
+      "documents": []
     },
     {
       "id": "fb02fc4c-abe1-44f6-895a-20f90f663776",
@@ -186,7 +207,9 @@
           "mime": "video/mp4"
         }
       ],
-      "createdAt": "2026-09-23T11:46:40.524Z"
+      "createdAt": "2026-09-23T11:46:40.524Z",
+      "audios": [],
+      "documents": []
     },
     {
       "id": "8c23e43b-a6c2-45ac-9907-d45b2f17b21b",
@@ -205,7 +228,9 @@
           "mime": "video/mp4"
         }
       ],
-      "createdAt": "2026-09-23T11:45:56.674Z"
+      "createdAt": "2026-09-23T11:45:56.674Z",
+      "audios": [],
+      "documents": []
     },
     {
       "id": "9afd2c08-30bc-4e56-9741-d3169baa7202",
@@ -224,7 +249,9 @@
           "mime": "video/mp4"
         }
       ],
-      "createdAt": "2026-09-23T11:45:42.004Z"
+      "createdAt": "2026-09-23T11:45:42.004Z",
+      "audios": [],
+      "documents": []
     },
     {
       "id": "a0119807-5a21-424b-8b05-4138eabf389b",
@@ -243,7 +270,9 @@
           "mime": "video/mp4"
         }
       ],
-      "createdAt": "2026-09-23T11:45:33.509Z"
+      "createdAt": "2026-09-23T11:45:33.509Z",
+      "audios": [],
+      "documents": []
     },
     {
       "id": "2aa85ae2-9362-4411-bc27-5fa5ee5d757f",
@@ -262,7 +291,9 @@
           "mime": "video/mp4"
         }
       ],
-      "createdAt": "2026-09-23T11:44:36.447Z"
+      "createdAt": "2026-09-23T11:44:36.447Z",
+      "audios": [],
+      "documents": []
     },
     {
       "id": "36e2c009-582b-4a69-bee8-7dc322079bdd",
@@ -281,7 +312,9 @@
           "mime": "video/mp4"
         }
       ],
-      "createdAt": "2026-09-23T11:44:16.566Z"
+      "createdAt": "2026-09-23T11:44:16.566Z",
+      "audios": [],
+      "documents": []
     },
     {
       "id": "3dd737ec-928e-4127-8ad3-0aef836a56cc",
@@ -300,7 +333,9 @@
           "mime": "video/mp4"
         }
       ],
-      "createdAt": "2026-09-23T11:44:14.552Z"
+      "createdAt": "2026-09-23T11:44:14.552Z",
+      "audios": [],
+      "documents": []
     },
     {
       "id": "dedae92f-f0e8-4eb4-bf25-12924f85a831",
@@ -319,7 +354,9 @@
           "mime": "video/mp4"
         }
       ],
-      "createdAt": "2026-09-23T11:43:41.751Z"
+      "createdAt": "2026-09-23T11:43:41.751Z",
+      "audios": [],
+      "documents": []
     },
     {
       "id": "2c07dacc-91cc-4489-83e8-0e789da2a220",
@@ -338,7 +375,9 @@
           "mime": "video/mp4"
         }
       ],
-      "createdAt": "2026-09-23T11:43:33.183Z"
+      "createdAt": "2026-09-23T11:43:33.183Z",
+      "audios": [],
+      "documents": []
     },
     {
       "id": "b8d8a990-3049-41e1-a778-e7b1d47e68ae",
@@ -357,7 +396,9 @@
           "mime": "video/mp4"
         }
       ],
-      "createdAt": "2026-09-23T11:43:24.091Z"
+      "createdAt": "2026-09-23T11:43:24.091Z",
+      "audios": [],
+      "documents": []
     },
     {
       "id": "5e42be39-b182-4da6-a788-55bf115e88e6",
@@ -390,7 +431,9 @@
           "mime": "video/mp4"
         }
       ],
-      "createdAt": "2026-09-23T10:05:15.635Z"
+      "createdAt": "2026-09-23T10:05:15.635Z",
+      "audios": [],
+      "documents": []
     },
     {
       "id": "266159be-1ade-4c00-9bac-f0b677d53ea9",
@@ -429,7 +472,9 @@
           "mime": "video/mp4"
         }
       ],
-      "createdAt": "2026-09-23T07:02:50.028Z"
+      "createdAt": "2026-09-23T07:02:50.028Z",
+      "audios": [],
+      "documents": []
     },
     {
       "id": "9688da62-eb23-445e-942e-cccbc7e83b3c",
@@ -461,7 +506,9 @@
           "mime": "video/mp4"
         }
       ],
-      "createdAt": "2026-09-23T04:02:10.204Z"
+      "createdAt": "2026-09-23T04:02:10.204Z",
+      "audios": [],
+      "documents": []
     }
   ]
 }
