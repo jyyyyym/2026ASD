@@ -23,6 +23,34 @@
   ],
   "submissions": [
     {
+      "id": "46953276-bfd6-4593-9873-0f878c56549b",
+      "projectId": "f3b1e8ea-2f72-4e2e-bcab-6a839fd1886f",
+      "author": "김민정",
+      "aiName": "미드저니",
+      "promptProcess": "Image Prompts\n\nPhotorealistic luxury product display featuring a one- or two-tier ivory-white celebration cake enclosed inside a perfectly clear transparent acrylic box. A large edible glossy crimson-red high heel stands upright at the exact center of the cake, preserving the reference shoe’s pointed toe, curved arch and ultra-thin stiletto heel. The cake is decorated with elegant white buttercream piping, couture ruffles, sugar pearls and white flowers. The authentic black PRADA MILANO wordmark is cleanly printed at the center of the front acrylic panel, like premium fashion-product packaging. The entire cake and shoe are clearly visible through the box. Symmetrical frontal composition, white studio background, soft diffused lighting, realistic acrylic reflections, subtle shadows, premium commercial product photography. No people, text other than the PRADA logo, candles or extra colors --ar 1:1 --iw 1 --style raw --stylize 80",
+      "content": "영화 <악마는 프라다를 입는다>의 메릴스트립에게 주고 싶은 케이크",
+      "intermediateImages": [
+        {
+          "id": "12da3127-f764-4a3c-b000-7c3af3e2b964",
+          "url": "https://raw.githubusercontent.com/jyyyyym/2026ASD/main/public/uploads/12da3127-f764-4a3c-b000-7c3af3e2b964.jpg",
+          "name": "u5284226419_Photorealistic_luxury_one-_or_two-tier_celebratio_36825c53-8a86-4cec-9728-428d58b6912c_0.jpg",
+          "mime": "image/jpeg"
+        }
+      ],
+      "finalImages": [
+        {
+          "id": "160c2ae2-b757-42a3-a118-366202c36142",
+          "url": "https://raw.githubusercontent.com/jyyyyym/2026ASD/main/public/uploads/160c2ae2-b757-42a3-a118-366202c36142.jpg",
+          "name": "u5284226419_httpss.mj.runGhOEl42LxTA_Photorealistic_luxury_pr_79c713c7-51c6-4e2e-997b-0315486b83df_2.jpg",
+          "mime": "image/jpeg"
+        }
+      ],
+      "videos": [],
+      "audios": [],
+      "documents": [],
+      "createdAt": "2026-09-30T12:29:43.080Z"
+    },
+    {
       "id": "b22ce2b5-8571-4d8c-aa66-05b36d852370",
       "projectId": "ai-toolkit-scout",
       "kind": "scout",
