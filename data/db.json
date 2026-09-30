@@ -26,7 +26,7 @@
       "id": "b22ce2b5-8571-4d8c-aa66-05b36d852370",
       "projectId": "ai-toolkit-scout",
       "kind": "scout",
-      "author": "테스트",
+      "author": "예시",
       "aiName": "Katalist",
       "toolUrl": "https://www.katalist.ai/",
       "reason": "Katalist는 PDF, DOCX, CSV 같은 스크립트 형식을 지원하고, 자체 AI Script Assistant로 아이디어에서 스크립트를 만들 수도 있다.",
@@ -61,7 +61,7 @@
       "audios": [],
       "documents": [],
       "createdAt": "2026-09-30T09:32:05.421Z",
-      "updatedAt": "2026-09-30T09:38:48.056Z"
+      "updatedAt": "2026-09-30T09:39:05.622Z"
     },
     {
       "id": "da627e32-cd92-4a84-9dcd-268d67dbfa13",
