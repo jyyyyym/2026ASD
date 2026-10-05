@@ -23,6 +23,61 @@
   ],
   "submissions": [
     {
+      "id": "ef0f7663-08d9-4ac9-83c0-7e4cd27cdefa",
+      "projectId": "ai-toolkit-scout",
+      "kind": "scout",
+      "author": "임이영",
+      "aiName": "Krea",
+      "toolUrl": "https://www.krea.ai/",
+      "reason": "Krea는 이미지 생성·편집부터 영상 생성까지 하나의 플랫폼에서 가능함. 특히 Realtime 기능으로 기존 이미지를 실시간에 가깝게 수정하며 다양한 방향을 빠르게 탐색할 수 있고, 생성한 이미지를 Video 기능의 레퍼런스로 활용해 영상으로 확장할 수 있다는 점이 흥미로워 선택했다.",
+      "outputForm": "이미지, 영상",
+      "coreValue": "빠른 시각적 탐색과 콘텐츠 확장",
+      "advantages": "Realtime 에서는 프롬프트를 수정하면 결과 변화를 해당 화면에서 바로 확인할 수 있다.\n기존 이미지를 기준으로 포즈나 형태를 바꿀 수 있어 다양한 방향을 탐색하기 쉽다.\n같은 이미지와 배경을 유지한 채 여러 버전의 결과물을 비교해가며 작업할 수 있다.\nRealtime에서 만든 이미지를 저장한 뒤 Video 탭에 다시 불러와 레퍼런스로 활용할 수 있다.\n이미지 생성·수정과 영상 제작 기능이 한 서비스 안에 있어, 별도의 외부 툴로 옮기지 않고 작업을 이어갈 수 있다.",
+      "limitations": "큰 포즈 변화나 복잡한 동작에서는 캐릭터의 형태가 어색하게 변하거나 일관성이 깨져 보일 수 있음  \n프롬프트를 세밀하게 작성해도 원하는 스타일이나 동작이 정확히 반영되지 않는 경우가 있다.  \n같은 캐릭터와 배경을 유지하도록 지시해도 세부 비율이나 형태가 완전히 동일하게 유지되지는 않는다.  \n원하는 결과를 얻기 위해 재생성을 반복하면 크레딧 소모가 큼 (사용자 리뷰에도 있는 이야기)\n이미지·영상 생성 과정에서 크래시나 생성 실패 등 안정성 문제가 있다는 리뷰도 있다.",
+      "promptProcess": "Krea는 이미지 생성·편집부터 영상 생성까지 하나의 플랫폼에서 가능함. 특히 Realtime 기능으로 기존 이미지를 실시간에 가깝게 수정하며 다양한 방향을 빠르게 탐색할 수 있고, 생성한 이미지를 Video 기능의 레퍼런스로 활용해 영상으로 확장할 수 있다는 점이 흥미로워 선택했다.",
+      "content": "빠른 시각적 탐색과 콘텐츠 확장",
+      "intermediateImages": [],
+      "finalImages": [
+        {
+          "id": "37b4a9bd-d625-4b5a-b6cb-da97ad8f3717",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/37b4a9bd-d625-4b5a-b6cb-da97ad8f3717-WeU22tU1UDl7bZZphOojtlriR88fXl.png",
+          "name": "01.png",
+          "mime": "image/png"
+        },
+        {
+          "id": "03f5005c-ccfb-4dc3-88ef-ad56a44982e8",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/03f5005c-ccfb-4dc3-88ef-ad56a44982e8-eG6n36TjvXvb3C5XVgneBUyFLSru12.png",
+          "name": "02.png",
+          "mime": "image/png"
+        },
+        {
+          "id": "39fc0b93-9a28-45ff-a839-dff431466a98",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/39fc0b93-9a28-45ff-a839-dff431466a98-Fkws6to5elQj8Yd9oohOfvSNAUzgwz.png",
+          "name": "03.png",
+          "mime": "image/png"
+        }
+      ],
+      "videos": [
+        {
+          "id": "ea7906ad-e3b5-43e4-991c-ea5f20e02e60",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/ea7906ad-e3b5-43e4-991c-ea5f20e02e60-cfj92c5mMjMaOwciyNjnqIJeJXaLni.mp4",
+          "name": "use_image1_image2_image3_and_image4_as_sequential_keyframes_create_a_smooth_5-second_video_of_the_s_qlo15ib7ow5y3ayuubk7_1.mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "audios": [],
+      "documents": [
+        {
+          "id": "c773612f-f3bb-4e7f-9c0f-a68c17947703",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/c773612f-f3bb-4e7f-9c0f-a68c17947703-iRKcupIZo7KXiNrcMzOaByawjxYIDD.pdf",
+          "name": "ai툴소개_krea.pdf",
+          "mime": "application/pdf"
+        }
+      ],
+      "createdAt": "2026-10-05T13:34:30.985Z",
+      "updatedAt": "2026-10-05T13:34:30.985Z"
+    },
+    {
       "id": "d228a893-acc8-412a-ab2c-e39021d9d6d0",
       "projectId": "ai-toolkit-scout",
       "kind": "scout",
