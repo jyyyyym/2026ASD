@@ -23,6 +23,42 @@
   ],
   "submissions": [
     {
+      "id": "d228a893-acc8-412a-ab2c-e39021d9d6d0",
+      "projectId": "ai-toolkit-scout",
+      "kind": "scout",
+      "author": "김현영",
+      "aiName": "Storyboarder",
+      "toolUrl": "https://www.storyboarder.ai/",
+      "reason": "한 줄 아이디어에서부터 세밀한 스토리까지, 텍스트를 입력하면 이미지/영상으로 스토리보드를 생성해준다. \n스토리를 세밀하게 시각화하기 어려운 사람들에게 유용한 툴. 단순히 이미지/영상을 생성하고 끝나는 게 아니라, 사이트에 프로젝트가 운용하기 편한 형태로 아카이빙 되고 에딧 가능하다는 점이 가장 큰 장점. 그야말로 스토리보드를 관리하기 좋은 형태라고 볼 수 있다.",
+      "outputForm": "이미지 형태의 스토리보드 및 프리비즈용 영상",
+      "coreValue": "-",
+      "advantages": "각 단계마다 필요한 컨펌과 설정을 요구하므로, 처음 시작할 때부터 모든 지시사항을 입력하지 않아도 된다. \n굉장히 직관적인 UI를 가지고 있다. \n캐릭터나 배경, 소품 등의 일관성이 꽤 괜찮은 편이고, 본인이 직접 그린 이미지 업로드도 컷별로 가능하다. 마음에 들지 않고 잘 생성되지 않는 컷만 직접 그려 업로드하는 것이 가능. \n각 컷마다 카메라 XYZ축이나 그립 방식, 무빙 등을 디테일하게 조정할 수 있다. \n사용자가 입력한 데이터는 학습시키지 않는다고 공표하고 있다. (보안이 중요한 상업 작업에도 이용 가능)",
+      "limitations": "시험 삼아 써 보기엔 비싸다. \n퀄리티 있는 완성물을 만들어내기 위한 목적보다는 프리비즈 목적에 부합한다. \n입력하는 소재의 저작권에 대한 책임이 사용자에게 있으므로 잘 구별해야 한다. \n생성형 AI가 갖는 보편적인 문제점들이 해당 툴에도 역시 존재한다. \n경쟁툴이 다수 존재하므로 각 장단점에 대한 사용자 본인의 파악이 필요하다.",
+      "promptProcess": "한 줄 아이디어에서부터 세밀한 스토리까지, 텍스트를 입력하면 이미지/영상으로 스토리보드를 생성해준다. \n스토리를 세밀하게 시각화하기 어려운 사람들에게 유용한 툴. 단순히 이미지/영상을 생성하고 끝나는 게 아니라, 사이트에 프로젝트가 운용하기 편한 형태로 아카이빙 되고 에딧 가능하다는 점이 가장 큰 장점. 그야말로 스토리보드를 관리하기 좋은 형태라고 볼 수 있다.",
+      "content": "-",
+      "intermediateImages": [],
+      "finalImages": [
+        {
+          "id": "046ab82b-240f-4da4-904e-58e0469cd952",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/046ab82b-240f-4da4-904e-58e0469cd952-teLNBExUuNe06KhBGIOTM3jw3j8huC.png",
+          "name": "Storyboard-a-day-in-the-life (1).png",
+          "mime": "image/png"
+        }
+      ],
+      "videos": [],
+      "audios": [],
+      "documents": [
+        {
+          "id": "b10e4870-ed80-4408-9728-da27258e420a",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/b10e4870-ed80-4408-9728-da27258e420a-7XvmjOl1PTAjzQSRoFXhGG9BNWlGkH.pdf",
+          "name": "AIToolScout_김현영.pdf",
+          "mime": "application/pdf"
+        }
+      ],
+      "createdAt": "2026-10-05T05:13:25.157Z",
+      "updatedAt": "2026-10-05T05:13:25.157Z"
+    },
+    {
       "id": "8a16ab2c-e263-45cb-8db0-7fe35ac14f53",
       "projectId": "f3b1e8ea-2f72-4e2e-bcab-6a839fd1886f",
       "author": "김민정",
