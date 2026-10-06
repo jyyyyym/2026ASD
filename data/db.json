@@ -38,7 +38,14 @@
       "content": "기존 화자의 목소리를 복제하여 새로운 문장을 말하는 AI 음성 콘텐츠",
       "intermediateImages": [],
       "finalImages": [],
-      "videos": [],
+      "videos": [
+        {
+          "id": "2803ae81-af75-45cf-a734-13b79d2aa182",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/2803ae81-af75-45cf-a734-13b79d2aa182-2bNVeqFg6S60CBfUTFeyaWjeUXsstE.mp4",
+          "name": "영상생성.mp4",
+          "mime": "video/mp4"
+        }
+      ],
       "audios": [
         {
           "id": "84435154-109c-4606-9091-ab2093e7529d",
@@ -62,7 +69,7 @@
         }
       ],
       "createdAt": "2026-10-06T11:44:56.384Z",
-      "updatedAt": "2026-10-06T11:57:09.842Z"
+      "updatedAt": "2026-10-06T11:58:25.178Z"
     },
     {
       "id": "c310a155-7034-45bd-8044-52aa8c6cccbd",
