@@ -28,7 +28,7 @@
       "kind": "scout",
       "author": "김예림",
       "aiName": "LOOK AI",
-      "toolUrl": "https://lookfashion.ai/",
+      "toolUrl": "https://lookfashion.ai/                              https://canva.link/zvqvj9dunhfmecu",
       "reason": "패션 디자인에 특화되어 있어 업무의 프로세스를 더 빠르게 처리할 수 있고 \n전문적인 프롬프트 작성 없이도 쉽게 작성하여 결과물을 얻어 낼 수 있다.",
       "outputForm": "이미지",
       "coreValue": "디자이너의 아이디어를 빠르게 시각화하다.",
@@ -86,7 +86,7 @@
         }
       ],
       "createdAt": "2026-10-06T15:49:47.187Z",
-      "updatedAt": "2026-10-06T19:23:07.048Z"
+      "updatedAt": "2026-10-06T19:23:31.585Z"
     },
     {
       "id": "bc566077-46ca-4052-8191-8f3525ea5a9e",
