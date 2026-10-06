@@ -23,6 +23,89 @@
   ],
   "submissions": [
     {
+      "id": "35adeb03-1dc8-4da3-81e4-b4437d8b7724",
+      "projectId": "ai-toolkit-scout",
+      "kind": "scout",
+      "author": "최지연",
+      "aiName": "[Krea] / [Meshy] / [Scenario] → 3D 이미지 제작툴 중심",
+      "toolUrl": "https://www.krea.ai/apps/sketch-to-image?utm_source=chatgpt.com  / https://www.meshy.ai/ko/",
+      "reason": "평소 브랜딩 업무에서 키 비주얼이나 캐릭터 관련 시안을 만들 때, 기존 3D 제작은 모델링 기술과 제작 시간이 필요해 쉽게 시도하기 어려웠다. 이에 이미지 생성부터 3D 모델 제작, 일관된 스타일의 에셋 생성까지 서로 다른 접근 방식을 살펴볼 수 있는 Krea, Meshy, Scenario를 선택해 알아보고자 했다. 이번 탐색을 통해 전문적인 3D 제작 경험이 없는 디자이너도 AI를 활용해 아이디어를 어디까지 구현할 수 있는지, 그리고 각 도구가 실제 디자인 과정의 어느 단계에서 도움이 되는지 일정 부분 확인할 수 있었다.",
+      "outputForm": "3D 이미지로 변환되어 결과물 생성",
+      "coreValue": "3D 이미지로 변환되어 결과물 생성",
+      "advantages": "[Krea]\nSketch to Image in Real Time - Free AI Sketch Generator | Krea\n간단한 도형을 그리고, 짧은 프롬프트를 더하면, Krea가 즉시 완성도 높은 비주얼로 렌더링해준다. 손의 움직임 속도에 맞춰 스케치하고, 동시에 모델을 직접적으로 제어할 수 있다.\n\n내가 그리거나, 입력한 내용(프롬프트 영역)이 바로바로 적용되어, 옆에서 확인할 수 있다는게 좋았다.\n단순하거나 현실적인 형태는 잘 만들어 줬지만, 추상적이거나 상상력이 필요한 드로잉의 경우 섬세한 렌더링이 떨어져 아쉬웠다.\n\n[Meshy]\nhttps://www.meshy.ai/ko/\nPNG/JPG 하나 넣으면 돌려볼 수 있는 3D mesh와 texture를 생성해 주는 서비스이다.\n\n[Scenario]\nhttps://www.scenario.com\n1.특징\n하나의 스타일을 잡고  같은 세계관의 캐릭터·배경·아이템을 계속 생성 방향이라 게임/브랜드 세계관에 사용되면 좋은 AI툴이라 앞의 툴들의 연장선읻라 가져와 봤는데, 생각보다 복잡해 실제로 실행해보진 못했다.",
+      "limitations": "[Krea]\n내가 그리거나, 입력한 내용(프롬프트 영역)이 바로바로 적용되어, 옆에서 확인할 수 있다는게 좋았다.\n단순하거나 현실적인 형태는 잘 만들어 줬지만, 추상적이거나 상상력이 필요한 드로잉의 경우 섬세한 렌더링이 떨어져 아쉬웠다.\n\n[Meshy]\n2D이미지를 넣고, 3D버튼을 누르면 직접돌려보고, 질감/색감을 섬세하게 변경할 수 있었다.\n캐릭터나 일러스트 느낌이지만, 개인적으로 Krea보다 실질적 결과물을 만드는데에 용이했다.",
+      "promptProcess": "평소 브랜딩 업무에서 키 비주얼이나 캐릭터 관련 시안을 만들 때, 기존 3D 제작은 모델링 기술과 제작 시간이 필요해 쉽게 시도하기 어려웠다. 이에 이미지 생성부터 3D 모델 제작, 일관된 스타일의 에셋 생성까지 서로 다른 접근 방식을 살펴볼 수 있는 Krea, Meshy, Scenario를 선택해 알아보고자 했다. 이번 탐색을 통해 전문적인 3D 제작 경험이 없는 디자이너도 AI를 활용해 아이디어를 어디까지 구현할 수 있는지, 그리고 각 도구가 실제 디자인 과정의 어느 단계에서 도움이 되는지 일정 부분 확인할 수 있었다.",
+      "content": "3D 이미지로 변환되어 결과물 생성",
+      "intermediateImages": [],
+      "finalImages": [
+        {
+          "id": "88565321-cd39-476f-984a-ac7bafc7a629",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/88565321-cd39-476f-984a-ac7bafc7a629-5pwvKy70J4BjCoFrLZZXsMzmWhPSOT.png",
+          "name": "image (9).png",
+          "mime": "image/png"
+        },
+        {
+          "id": "e2f35a0f-f05a-42ef-89f5-30ada941814a",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/e2f35a0f-f05a-42ef-89f5-30ada941814a-VrTxdd1Z1SGb2D42Ok3zi0jFFshLVe.png",
+          "name": "image (8).png",
+          "mime": "image/png"
+        },
+        {
+          "id": "f7b349b6-e4c2-4e87-95e4-4e41c4416927",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/f7b349b6-e4c2-4e87-95e4-4e41c4416927-3mtwadBUUllO9HzZV3sVuSkzmGPbq4.png",
+          "name": "image (7).png",
+          "mime": "image/png"
+        },
+        {
+          "id": "7d1e8631-80f5-47da-b9d1-83b910c7cbf3",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/7d1e8631-80f5-47da-b9d1-83b910c7cbf3-3QlzEmS8uzE9SW5DZCUyA7GRsUdfwu.jpg",
+          "name": "GettyImages-801650270.jpg",
+          "mime": "image/jpeg"
+        },
+        {
+          "id": "2ea7ca4e-2aa1-4b8f-a4d6-aaea3ef7802f",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/2ea7ca4e-2aa1-4b8f-a4d6-aaea3ef7802f-tr5l2Dpu3aDASeLmDMkXo59bB1nGzI.png",
+          "name": "image (6).png",
+          "mime": "image/png"
+        },
+        {
+          "id": "e8452826-af6c-4098-9bfe-53de23dd269c",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/e8452826-af6c-4098-9bfe-53de23dd269c-33itnL54uVFdMbDd2OHix7p8cBZM5h.png",
+          "name": "image (5).png",
+          "mime": "image/png"
+        },
+        {
+          "id": "a129fd1a-de51-4d9c-a5b5-66fca2fe44bf",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/a129fd1a-de51-4d9c-a5b5-66fca2fe44bf-81eIdzq4ULBAnNGUCcdSprjiRRwmSl.png",
+          "name": "image (4).png",
+          "mime": "image/png"
+        },
+        {
+          "id": "89f7da9f-6043-40d3-bf40-678173144923",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/89f7da9f-6043-40d3-bf40-678173144923-dH5YljVJTW0op6HQ5E9NtHhqRMkN6U.png",
+          "name": "image (3).png",
+          "mime": "image/png"
+        },
+        {
+          "id": "10288840-0bc6-4f45-ace2-804378cc266c",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/10288840-0bc6-4f45-ace2-804378cc266c-dYZxZOPpIsYC5ODQKThjYPRymuFP9I.png",
+          "name": "image (2).png",
+          "mime": "image/png"
+        },
+        {
+          "id": "fe5e8abf-3e09-4e30-8870-e0d9c32f833a",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/fe5e8abf-3e09-4e30-8870-e0d9c32f833a-RLAzWudSNWmqqqFRkrHXdUfJKKKvsP.png",
+          "name": "image (1).png",
+          "mime": "image/png"
+        }
+      ],
+      "videos": [],
+      "audios": [],
+      "documents": [],
+      "createdAt": "2026-10-06T13:02:17.267Z",
+      "updatedAt": "2026-10-06T13:02:17.267Z"
+    },
+    {
       "id": "e8d11d71-9486-40c3-a91f-0c4f0bee4d70",
       "projectId": "ai-toolkit-scout",
       "kind": "scout",
