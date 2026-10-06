@@ -77,9 +77,16 @@
       ],
       "videos": [],
       "audios": [],
-      "documents": [],
+      "documents": [
+        {
+          "id": "c53229dc-4f0e-40c6-bf5c-6c94c46db926",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/c53229dc-4f0e-40c6-bf5c-6c94c46db926-E0yiMEDb121iEf6CDU0HOzEDYOvAan.pdf",
+          "name": "LOOK AI.pdf",
+          "mime": "application/pdf"
+        }
+      ],
       "createdAt": "2026-10-06T15:49:47.187Z",
-      "updatedAt": "2026-10-06T15:49:47.187Z"
+      "updatedAt": "2026-10-06T19:22:33.179Z"
     },
     {
       "id": "bc566077-46ca-4052-8191-8f3525ea5a9e",
