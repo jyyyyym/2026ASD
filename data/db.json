@@ -45,6 +45,12 @@
           "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/84435154-109c-4606-9091-ab2093e7529d-D94pCa0oY5OGjQlv0otUzU3Hn4Zhbm.mp3",
           "name": "ElevenLabs_2026-10-06T11_20_09_실험_ivc_sp100_s50_sb75_v4.mp3",
           "mime": "audio/mpeg"
+        },
+        {
+          "id": "38b00611-3894-44ca-a2cc-c9e15336f232",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/38b00611-3894-44ca-a2cc-c9e15336f232-ZSWB0lOlScnAdGoj6j2dxksNMDQiAv.wav",
+          "name": "음악생성.wav",
+          "mime": "audio/wav"
         }
       ],
       "documents": [
@@ -56,7 +62,7 @@
         }
       ],
       "createdAt": "2026-10-06T11:44:56.384Z",
-      "updatedAt": "2026-10-06T11:44:56.384Z"
+      "updatedAt": "2026-10-06T11:57:09.842Z"
     },
     {
       "id": "c310a155-7034-45bd-8044-52aa8c6cccbd",
