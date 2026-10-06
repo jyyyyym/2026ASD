@@ -23,6 +23,72 @@
   ],
   "submissions": [
     {
+      "id": "c310a155-7034-45bd-8044-52aa8c6cccbd",
+      "projectId": "ai-toolkit-scout",
+      "kind": "scout",
+      "author": "이수빈",
+      "aiName": "Google flow",
+      "toolUrl": "https://flow.google.com/",
+      "reason": "Google Flow는 구글 계정만 있으면 별도 구독 없이 무료로 사용할 수 있고, 하루 50 크레딧이 매일 다시 충전되어 부담 없이 여러 번 시도해볼 수 있다. 이미지 생성은 크레딧 없이 무료라서 스토리보드 컷을 충분히 다듬은 뒤 확정된 컷만 영상으로 만들 수 있다.",
+      "outputForm": "스토리보드 이미지(컷별), 사운드가 포함된 영상",
+      "coreValue": "바쁜 하루 속에서 나를 다시 숨 쉬게 하는 회복\n— 하루 종일 알림과 소음 속에 있던 직장인이 퇴근길 식물원에서 휴대폰을 내려놓고 숨을 고르는 순간을 담았다. 식물원을 '구경하는 곳'이 아니라 '회복하는 곳'으로 바라보고, 도시 소음이 물소리·새소리로 바뀌는 사운드 흐름으로 회복의 감정을 표현했다.",
+      "advantages": "- 구독 없이 무료로 사용할 수 있고, 하루 50 크레딧이 매일 다시 충전된다.\n- 이미지 생성은 크레딧이 들지 않아 스토리보드를 부담 없이 반복 수정할 수 있다.\n- 업로드한 이미지를 시작 프레임으로 넣어 원하는 장면 그대로 영상으로 만들 수 있다.\n- 영상과 사운드가 함께 생성되어 효과음이나 배경음을 따로 찾을 필요가 없다.\n- Veo 3.1, Gemini Omni Flash 등 여러 모델을 골라 품질과 크레딧을 조절할 수 있다.\n- 장면(Scenebuilder) 기능으로 여러 컷을 순서대로 이어 하나의 영상으로 만들 수 있다.\n- 캐릭터 기능으로 같은 인물을 여러 장면에 반복해서 사용할 수 있다.",
+      "limitations": "- 하루 50 크레딧으로는 영상을 몇 개밖에 만들 수 없어, 여러 컷을 하루에 완성하기 어렵다.\n- 가장 높은 품질의 Veo 3.1 Quality는 한 번에 100 크레딧이 필요해 무료로는 사용할 수 없다.\n- 사용자가 몰리는 시간대에는 무료 영상 생성이 제한될 수 있다.\n- 이미지 편집 화면과 영상 생성 화면이 구분되어 있어, 처음에는 영상 만드는 메뉴를 찾기 어려웠다.\n- 한 클립의 길이가 짧아(약 4~10초) 긴 장면은 여러 클립으로 나눠 만들어야 한다.\n- 컷마다 인물의 얼굴이나 옷 디테일이 조금씩 달라져 완벽한 일관성을 유지하기 어렵다.\n- 남은 크레딧이 다음 날로 이월되지 않는다.",
+      "promptProcess": "Google Flow는 구글 계정만 있으면 별도 구독 없이 무료로 사용할 수 있고, 하루 50 크레딧이 매일 다시 충전되어 부담 없이 여러 번 시도해볼 수 있다. 이미지 생성은 크레딧 없이 무료라서 스토리보드 컷을 충분히 다듬은 뒤 확정된 컷만 영상으로 만들 수 있다.",
+      "content": "바쁜 하루 속에서 나를 다시 숨 쉬게 하는 회복\n— 하루 종일 알림과 소음 속에 있던 직장인이 퇴근길 식물원에서 휴대폰을 내려놓고 숨을 고르는 순간을 담았다. 식물원을 '구경하는 곳'이 아니라 '회복하는 곳'으로 바라보고, 도시 소음이 물소리·새소리로 바뀌는 사운드 흐름으로 회복의 감정을 표현했다.",
+      "intermediateImages": [],
+      "finalImages": [],
+      "videos": [
+        {
+          "id": "4e4da4eb-df4c-474f-abef-e3fc08a0799e",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/4e4da4eb-df4c-474f-abef-e3fc08a0799e-VYxRFf04BDDDTDm0Tmx90zNh4fuZem.mp4",
+          "name": "Woman_scrolls_phone_on_subway_20261006160345.mp4",
+          "mime": "video/mp4"
+        },
+        {
+          "id": "53c8c483-ba29-4e22-acea-3ffa164d7d9f",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/53c8c483-ba29-4e22-acea-3ffa164d7d9f-IrGHaMRzcN0bqvIUyZgK9oUHbHsSGV.mp4",
+          "name": "Woman_walks_into_greenhouse_20261006160410.mp4",
+          "mime": "video/mp4"
+        },
+        {
+          "id": "9c6dfaad-5190-411f-a4ab-5bcc6836c8a1",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/9c6dfaad-5190-411f-a4ab-5bcc6836c8a1-Qp5EaUCZWVnJDMx2qEeLH0WvM9nSTi.mp4",
+          "name": "Woman_gazes_at_giant_leaves_20261006160422.mp4",
+          "mime": "video/mp4"
+        },
+        {
+          "id": "7dc77845-7af5-4d7e-98d3-311b677730e6",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/7dc77845-7af5-4d7e-98d3-311b677730e6-uUvqC4WohNwrkpKkcqi9z35xpSPiz6.mp4",
+          "name": "KakaoTalk_Video_2026-10-06-17-05-52.mp4",
+          "mime": "video/mp4"
+        },
+        {
+          "id": "f8988f78-666d-45c5-9741-873047f34378",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/f8988f78-666d-45c5-9741-873047f34378-Grzhbpx3NkuOgZAeRWha6xKVqvXI75.mp4",
+          "name": "Woman_smiling_inside_glass_dome_20261006160430.mp4",
+          "mime": "video/mp4"
+        },
+        {
+          "id": "d73a2134-65a0-4597-a731-9a492344a0c0",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/d73a2134-65a0-4597-a731-9a492344a0c0-keLYPjoxFqD1uo4TmtAhH8h1mce0em.mp4",
+          "name": "Woman_breathing_by_pond_20261006160425.mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "audios": [],
+      "documents": [
+        {
+          "id": "175dd676-e8c3-43d1-afad-49514e477c62",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/175dd676-e8c3-43d1-afad-49514e477c62-om0WE6ztraER5DbYmtcUBmwSlrqewx.pdf",
+          "name": "AI toolkit 소개 _ 이수빈.pdf",
+          "mime": "application/pdf"
+        }
+      ],
+      "createdAt": "2026-10-06T11:25:15.233Z",
+      "updatedAt": "2026-10-06T11:25:15.233Z"
+    },
+    {
       "id": "3ca7dd54-db3f-4b46-aa69-ff8a5c6f7851",
       "projectId": "ai-toolkit-scout",
       "kind": "scout",
