@@ -23,6 +23,73 @@
   ],
   "submissions": [
     {
+      "id": "bc566077-46ca-4052-8191-8f3525ea5a9e",
+      "projectId": "ai-toolkit-scout",
+      "kind": "scout",
+      "author": "양유정",
+      "aiName": "RUNWAY",
+      "toolUrl": "https://runway.com/",
+      "reason": "시나리오를 기반으로 이미지와 영상을 하나의 제작 과정에서 연결할 수 있기 때문에 선택했다. \n특히 이미지 레퍼런스를 활용해 동일한 인물과 공간, 제품의 형태를 유지하면서 장면을 확장할 수 있다.\n또한  Runway는 이미지에 단순한 움직임을 추가하는 것을 넘어 카메라의 시점과 이동, 피사체의 움직임 등을 조절할 수 있어 기획한 장면을 보다 구체적인 영상으로 구현할 수 있다.",
+      "outputForm": "Scenario · Image · Video · Audio",
+      "coreValue": "아이디어를 빠르게 시각화하고, 일관된 비주얼을 유지하면서 영상으로 확장할 수 있다",
+      "advantages": "1. 이미지를 기반으로 영상을 자연스럽게 확장할 수 있어 아이디어를 빠르게 시각화할 수 있다.\n2. Reference 기능을 활용해 인물·차량·공간 등의 주요 요소를 일관되게 유지할 수 있다.\n3. 다양한 카메라 앵글과 움직임을 빠르게 테스트하며 원하는 연출을 탐색할 수 있다.\n4. 실제 촬영이 어려운 미래적·비현실적인 장면도 구현할 수 있어 표현의 범위가 넓다.\n5. 생성·수정을 반복하며 다양한 결과를 비교할 수 있어 아이디어를 발전시키는 데 유리하다.",
+      "limitations": "1. 원하는 장면을 한 번에 정확하게 구현하기 어려워 반복적인 생성이 필요하다.\n2. 복잡한 동작이나 인물의 손·얼굴 등 세부적인 부분에서 오류가 발생할 수 있다.\n3. 여러 장면을 연결할 경우 인물이나 제품의 형태가 미세하게 달라질 수 있다.\n4. 짧은 클립 단위로 생성되는 특성상 긴 호흡의 스토리텔링은 별도의 후편집이 필요하다.\n5. 원하는 결과에 맞추기 위해 프롬프트를 반복적으로 수정하고 결과를 선별하는 과정이 필요하다.",
+      "promptProcess": "시나리오를 기반으로 이미지와 영상을 하나의 제작 과정에서 연결할 수 있기 때문에 선택했다. \n특히 이미지 레퍼런스를 활용해 동일한 인물과 공간, 제품의 형태를 유지하면서 장면을 확장할 수 있다.\n또한  Runway는 이미지에 단순한 움직임을 추가하는 것을 넘어 카메라의 시점과 이동, 피사체의 움직임 등을 조절할 수 있어 기획한 장면을 보다 구체적인 영상으로 구현할 수 있다.",
+      "content": "아이디어를 빠르게 시각화하고, 일관된 비주얼을 유지하면서 영상으로 확장할 수 있다",
+      "intermediateImages": [],
+      "finalImages": [
+        {
+          "id": "0b2f1623-78c6-4cd1-8634-ad7652aba7eb",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/0b2f1623-78c6-4cd1-8634-ad7652aba7eb-Y9liy3j8utCzSJ0kDd3LQpAbeRdv9g.png",
+          "name": "Gen-4 - Cinematic photorealistic interior shot of a modern white SUV driving through a snowy forest.png",
+          "mime": "image/png"
+        },
+        {
+          "id": "7c8eead1-5882-4ad7-933a-d47d24c9912e",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/7c8eead1-5882-4ad7-933a-d47d24c9912e-XIoFZr5W6DbZ9jUjRzyR8vWnb5baDP.png",
+          "name": "Gen-4 - Cinematic photorealistic exterior shot of the same modern white SUV driving through a snowy.png",
+          "mime": "image/png"
+        },
+        {
+          "id": "04e1b727-c7b9-4fa7-a6e7-51cfae2e2c57",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/04e1b727-c7b9-4fa7-a6e7-51cfae2e2c57-zCmeHudmAZWAojtW5BHih2Nhh98XID.png",
+          "name": "Gen-4 - Cinematic photorealistic exterior shot of the same modern white SUV driving through a snowy (2).png",
+          "mime": "image/png"
+        },
+        {
+          "id": "5f089832-9362-43e2-890a-cb1addab3a1f",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/5f089832-9362-43e2-890a-cb1addab3a1f-NE5LPfmULZIsYx5MQ0wV6SOsQ8UmBD.png",
+          "name": "Gen-4 - Cinematic photorealistic exterior shot of the exact same white SUV from the reference image, (2).png",
+          "mime": "image/png"
+        },
+        {
+          "id": "1ea31c83-adb5-4431-a611-e6031a2788d3",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/1ea31c83-adb5-4431-a611-e6031a2788d3-0enENtoxDtJZvy2X7jLoiLnnVwmkkR.png",
+          "name": "Gen-4 - Cinematic photorealistic exterior shot of the exact same white SUV from the reference image, (1).png",
+          "mime": "image/png"
+        }
+      ],
+      "videos": [
+        {
+          "id": "c6eeffc7-d3a7-45aa-9a80-08dec52db5ae",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/c6eeffc7-d3a7-45aa-9a80-08dec52db5ae-FmY4P6wpYSieWhruAGkHC7rOynP9lg.mp4",
+          "name": "Gen-4_5 - A woman in her 20s is driving, naturally holding the steering wheel_ Snow gently falls con.mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "audios": [],
+      "documents": [
+        {
+          "id": "85e69db7-d3a3-4803-907b-fba09624e62f",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/85e69db7-d3a3-4803-907b-fba09624e62f-dj6L2P4zczByvvw8LbQNqCgqS8dJXf.pdf",
+          "name": "Runway _ai  과정 .pdf",
+          "mime": "application/pdf"
+        }
+      ],
+      "createdAt": "2026-10-06T14:58:22.745Z",
+      "updatedAt": "2026-10-06T14:58:22.745Z"
+    },
+    {
       "id": "48c643ef-622e-4338-90f5-32322ee300db",
       "projectId": "ai-toolkit-scout",
       "kind": "scout",
