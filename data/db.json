@@ -23,6 +23,42 @@
   ],
   "submissions": [
     {
+      "id": "e8d11d71-9486-40c3-a91f-0c4f0bee4d70",
+      "projectId": "ai-toolkit-scout",
+      "kind": "scout",
+      "author": "최윤서",
+      "aiName": "일레븐랩스",
+      "toolUrl": "https://elevenlabs.io/app/speech-synthesis/text-to-speech?voice_id=I5LVE4ttbOWfxEAEHlLV",
+      "reason": "특정 사람의 목소리를 AI가 학습하여, 그 사람의 목소리와 유사한 음성을 새롭게 생성하는 기술을 활용하고자 함.",
+      "outputForm": "기존 음성을 단순히 높이거나 낮추는 변조가 아니라, 특정 화자의 목소리 특징을 학습해서 새로운 문장을 그 목소리로 말하게 만드는 것",
+      "coreValue": "기존 화자의 목소리를 복제하여 새로운 문장을 말하는 AI 음성 콘텐츠",
+      "advantages": "실제 목소리를 기반으로 새로운 음성을 빠르게 생성하여 콘텐츠 제작과 개인화에 활용할 수 있음.\n다국어 콘텐츠\n 제작 가능 → 하나의 목소리를 활용해 여러 언어의 음성 콘텐츠로 확장 가능\n실제 목소리를 그대로 활용 가능 → 익숙하고 자연스러운 화자 경험 제공\n새로운 문장을 쉽게 생성 → 직접 녹음하지 않아도 다양한 콘텐츠 제작 가능",
+      "limitations": "감정과 억양의 미세한 표현이 제한적이며, 음성 품질과 발음에 따라 결과물의 자연스러움이 달라질 수 있음.\n감정 표현의 한계 → 실제 화자의 미묘한 감정이나 상황에 따른 표현이 완벽하게 재현되지 않을 수 있음\n발음·억양 오류 → 특정 단어나 문장에서 부자연스러운 발음이 발생할 수 있음\n개인정보·초상권과 유사한 음성 권리 문제 → 타인의 목소리를 복제할 경우 동의와 사용 권한이 필요함\n인간적인 자연스러움의 한계 → 실제 사람이 직접 말하는 것과 비교하면 미세한 차이가 느껴질 수 있음",
+      "promptProcess": "특정 사람의 목소리를 AI가 학습하여, 그 사람의 목소리와 유사한 음성을 새롭게 생성하는 기술을 활용하고자 함.",
+      "content": "기존 화자의 목소리를 복제하여 새로운 문장을 말하는 AI 음성 콘텐츠",
+      "intermediateImages": [],
+      "finalImages": [],
+      "videos": [],
+      "audios": [
+        {
+          "id": "84435154-109c-4606-9091-ab2093e7529d",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/84435154-109c-4606-9091-ab2093e7529d-D94pCa0oY5OGjQlv0otUzU3Hn4Zhbm.mp3",
+          "name": "ElevenLabs_2026-10-06T11_20_09_실험_ivc_sp100_s50_sb75_v4.mp3",
+          "mime": "audio/mpeg"
+        }
+      ],
+      "documents": [
+        {
+          "id": "5822865b-c253-47fe-ae21-fe99956f7265",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/5822865b-c253-47fe-ae21-fe99956f7265-Zh7sKn0EHz7Ne0w1a7HKgXotJTEmii.pptx",
+          "name": "AI시대의 서비스 디자인.pptx",
+          "mime": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+        }
+      ],
+      "createdAt": "2026-10-06T11:44:56.384Z",
+      "updatedAt": "2026-10-06T11:44:56.384Z"
+    },
+    {
       "id": "c310a155-7034-45bd-8044-52aa8c6cccbd",
       "projectId": "ai-toolkit-scout",
       "kind": "scout",
