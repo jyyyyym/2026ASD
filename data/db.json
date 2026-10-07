@@ -23,6 +23,34 @@
   ],
   "submissions": [
     {
+      "id": "c55f098d-71d2-47fd-bc60-a460fed14d0a",
+      "projectId": "f3b1e8ea-2f72-4e2e-bcab-6a839fd1886f",
+      "author": "김민정",
+      "aiName": "midjourney",
+      "promptProcess": "A vivid minimalist editorial illustration of a compact cartoon character performing the exact supported headstand yoga pose from the pose reference: forearms firmly on the ground, head between the arms, torso vertical, both legs held together and extended straight upward. Full body centered, simplified short proportions and a clear graphic silhouette. Use the character design from ATOM.png only: short black hair, rounded youthful features and simple expressive eyes, but the upside-down face may remain mostly hidden. Thick loose black outlines, intentionally uneven hand-drawn lines, flat vivid colors, hot pink background, coral-orange top, bright turquoise leggings, playful naive drawing, matte screen-print texture, large areas of clean negative space. No realistic anatomy, no detailed face, no shading, no gradients, no 3D rendering, no beach, no scenery, no text, no logo\n\nA close-up portrait of a charming youthful animated character with smooth peach-toned skin, a softly rounded face, large glossy dark-brown eyes, thick curved black eyebrows, a small subtle nose and a gentle confident smile. Short glossy jet-black hair with a dramatic swept fringe, sculpted side locks and a pointed upward flick at the back. Three-quarter view, head slightly turned toward the camera, clean simplified facial features, polished high-end 3D character design, soft rounded forms, subtle skin texture, warm cinematic lighting, delicate highlights on the face and hair, shallow depth of field, softly blurred peach-and-cream indoor background, friendly and optimistic mood, centered composition, ultra-clean rendering, no text, no accessories --ar 1:1 --style raw --stylize 100",
+      "content": "평소 좋아하는 아톰 캐릭터와 취미인 요가의 동작을 접목시켜서 나를 표현해 보았습니다",
+      "intermediateImages": [
+        {
+          "id": "a8e4baba-c080-45b4-8466-ac4a4e0759f5",
+          "url": "https://raw.githubusercontent.com/jyyyyym/2026ASD/main/public/uploads/a8e4baba-c080-45b4-8466-ac4a4e0759f5.jpg",
+          "name": "u5284226419_httpss.mj.run_oklRdS7xR4_A_vivid_minimalist_edito_76457c85-873a-4115-bf89-f9a35324b089_3.jpg",
+          "mime": "image/jpeg"
+        }
+      ],
+      "finalImages": [
+        {
+          "id": "2c6ef196-43d3-4de7-a882-7ba0bda26410",
+          "url": "https://raw.githubusercontent.com/jyyyyym/2026ASD/main/public/uploads/2c6ef196-43d3-4de7-a882-7ba0bda26410.jpg",
+          "name": "u5284226419___ATOM.png_.________________._______ATOM__________9270b11a-caf3-4599-8d28-ffbd7fdbf8c2_2.jpg",
+          "mime": "image/jpeg"
+        }
+      ],
+      "videos": [],
+      "audios": [],
+      "documents": [],
+      "createdAt": "2026-10-07T07:20:15.226Z"
+    },
+    {
       "id": "4262a453-c98f-4c46-a570-39d20b0efeaf",
       "projectId": "ai-toolkit-scout",
       "kind": "scout",
