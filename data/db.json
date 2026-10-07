@@ -23,6 +23,40 @@
   ],
   "submissions": [
     {
+      "id": "94d9da0a-a0ea-4c67-ae77-db65b9027676",
+      "projectId": "f3b1e8ea-2f72-4e2e-bcab-6a839fd1886f",
+      "author": "양유정",
+      "aiName": "미드저니",
+      "promptProcess": "A cute small white-and-gray cat wearing a soft blue shark hoodie, pleasantly rounded but not overweight, compact natural body proportions, sitting upright behind a cozy wooden desk, slightly angry and grumpy expression like a cute annoyed cat, narrowed dark glossy eyes, lowered eyebrows, tiny pink nose, small pouty mouth, subtle angry expression without looking scary, open silver laptop directly in front of the cat, paws resting naturally beside the laptop, cat looking straight at the laptop with a mildly irritated expression, warm minimalist home office, small desk lamp and a few green plants in the background, soft warm ambient lighting, gentle shadows, pastel blue and cream color palette, adorable kawaii character design, soft 3D rendering, plush-like texture, smooth rounded forms, expressive face, cinematic depth of field, polished digital illustration, highly detailed, hd quality, natural look --ar 4:3",
+      "content": "핀터레스트 -> 미드저니 (캐릭터 Describe)-> GPT ( 배경 및 요소 ) -> 미드저니 (결과)",
+      "intermediateImages": [
+        {
+          "id": "fe496774-cbb8-424c-b0ab-2609501033a2",
+          "url": "https://raw.githubusercontent.com/jyyyyym/2026ASD/main/public/uploads/fe496774-cbb8-424c-b0ab-2609501033a2.jpg",
+          "name": "u3371137544_a_3d_digital_illustration_of_a_cute_chubby_white__e2e8e1f1-dc8e-4a4a-b947-29c92dd82cf9_0.jpg",
+          "mime": "image/jpeg"
+        },
+        {
+          "id": "22256f73-7d6a-41ca-833a-5b3fd6efcebc",
+          "url": "https://raw.githubusercontent.com/jyyyyym/2026ASD/main/public/uploads/22256f73-7d6a-41ca-833a-5b3fd6efcebc.jpg",
+          "name": "u3371137544_A_cute_small_white-and-gray_cat_wearing_a_soft_bl_aa6b7ebc-d9f1-474b-9e3c-6db5bdea109c_0.jpg",
+          "mime": "image/jpeg"
+        }
+      ],
+      "finalImages": [],
+      "videos": [
+        {
+          "id": "6be0d483-db4e-4ad0-8c21-3a197986ac6a",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/videos/6be0d483-db4e-4ad0-8c21-3a197986ac6a-1kpgsLcfpkBKu2UnUcJAK0ZS04bo6o.mp4",
+          "name": "u3371137544_A_cute_small_white-and-gray_cat_wearing_a_soft_bl_436fc6c2-4f55-42ee-ab9f-de54997d3602_3.mp4",
+          "mime": "video/mp4"
+        }
+      ],
+      "audios": [],
+      "documents": [],
+      "createdAt": "2026-10-07T10:04:14.866Z"
+    },
+    {
       "id": "82fd1cd4-3020-463c-86ed-a4f0d466a9d7",
       "projectId": "ai-toolkit-scout",
       "kind": "scout",
