@@ -23,6 +23,53 @@
   ],
   "submissions": [
     {
+      "id": "82fd1cd4-3020-463c-86ed-a4f0d466a9d7",
+      "projectId": "ai-toolkit-scout",
+      "kind": "scout",
+      "author": "이윤수",
+      "aiName": "Grok, Figma AI",
+      "toolUrl": "https://grok.com/",
+      "reason": "다른 AI 툴에 비해 생성 속도가 빠르고, 레이어 편집이 가능하다. 시네마틱 연출이 잘되는 편이다. 미드저니의 보급형 미감과 gemini의 정확한 비례감이나 데이터 유지의 중간을 합쳐놓은 느낌이다.",
+      "outputForm": "이미지(포스터, 포스터 목업, 페르소나, 유튜브 광고 이미지)",
+      "coreValue": "하루를 마무리하는 개운한 보상",
+      "advantages": "타 AI보다 생성 속도가 빠르고, Chat기능을 통해 이미지를 만들기 전에 \n프롬프트 요소나 핵심 키워드를 정리할 수 있다. \n이미지 생성 이후 그래픽 요소들이 png로 나뉘어져 있어서, \n레이어를 지정한 편집이 가능하고, 글씨나 단색으로 이루어진 요소들은 \n색 변경이 바로바로 가능했다.\n 페르소나 이미지 생성시에는 비슷한 느낌의 Variation을\n  20가지 정도로 제시해주었고, 조명에 대한 묘사나 레퍼런스를 참고한 미감이 나쁘지 않은 편이다.  \n텍스트 인식도도 좋은 편이고, 무엇보다 질감에 대한 이미지 표현과 \n카메라 앵글에 대한 명령어 반영이 정확한 편이다.\n피그마 AI 같은 경우는 이번 작업에서 처음 써봤는데, \n컴포넌트들을 변형 가능하게 잘 정리해주어서 자주 애용할 것 같다.",
+      "limitations": "부족한 점으로는 가끔 레이어만 지정해서 작업을 해도 수정을 거치면서,\n이미지 전체의 열화 현상이 두드러지고, 합성 요소들의 스케일을 명시하는 프롬프트를 적어도, \n크기나 위치의 왜곡이 심하게 나올 때가 있다.\n 이미지보다 채팅 기능에서의 크레딧 소모가 빨라서, \n더 많은 대화를 통해 브랜드 코어밸류에 대한 추론을 하고 싶었는데, 기본 크레딧이 소진되는 단점이 있다. 피그마 AI는 단일 프레임만 생성해서 아직까지 뚜렷한 단점을 찾기는 어렵다. \n프레임 뎁스감이나 콘테츠가 많아지면, 그때부터 무엇이 부족한지 알 수 있을 것 같다. \n추후의 영상화 작업에서는 Grok과 Higgsfield를 동시에 작업해서, 어떤 툴이 카메라나 액팅이 명확한지 비교해볼 계획이다.",
+      "promptProcess": "다른 AI 툴에 비해 생성 속도가 빠르고, 레이어 편집이 가능하다. 시네마틱 연출이 잘되는 편이다. 미드저니의 보급형 미감과 gemini의 정확한 비례감이나 데이터 유지의 중간을 합쳐놓은 느낌이다.",
+      "content": "하루를 마무리하는 개운한 보상",
+      "intermediateImages": [],
+      "finalImages": [
+        {
+          "id": "7d617250-ae89-4d8d-874f-f83d32fde261",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/7d617250-ae89-4d8d-874f-f83d32fde261-FjhSsaocY3S2z4UkQYfV7fDqxkX47f.png",
+          "name": "kelly_poster.png",
+          "mime": "image/png"
+        },
+        {
+          "id": "ea7adcf8-a5c5-47d5-ac09-615f8e7cca8a",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/ea7adcf8-a5c5-47d5-ac09-615f8e7cca8a-xcEJyOiPtiujNhtZwJaIGs8Gq7oRsh.png",
+          "name": "Logout to Kelly – Campaign Poster_1.png",
+          "mime": "image/png"
+        },
+        {
+          "id": "e2ae26e8-2771-4d54-9c6a-7ff6437b330d",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/e2ae26e8-2771-4d54-9c6a-7ff6437b330d-aMbBkoE8SX75XdfeOehUhdBE79tsia.png",
+          "name": "Logout to Kelly – Campaign Poster.png",
+          "mime": "image/png"
+        },
+        {
+          "id": "aee54872-a438-4b66-b448-74e5e0b71d2a",
+          "url": "https://iqpsxbgthxswxifj.public.blob.vercel-storage.com/scout/aee54872-a438-4b66-b448-74e5e0b71d2a-xqfCSQBSqdlsshE6ra7um7sok0pCag.jpg",
+          "name": "persona.jpg",
+          "mime": "image/jpeg"
+        }
+      ],
+      "videos": [],
+      "audios": [],
+      "documents": [],
+      "createdAt": "2026-10-07T08:52:50.593Z",
+      "updatedAt": "2026-10-07T08:52:50.593Z"
+    },
+    {
       "id": "c55f098d-71d2-47fd-bc60-a460fed14d0a",
       "projectId": "f3b1e8ea-2f72-4e2e-bcab-6a839fd1886f",
       "author": "김민정",
