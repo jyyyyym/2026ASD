@@ -643,34 +643,6 @@
       "updatedAt": "2026-10-05T09:27:13.349Z"
     },
     {
-      "id": "8a16ab2c-e263-45cb-8db0-7fe35ac14f53",
-      "projectId": "f3b1e8ea-2f72-4e2e-bcab-6a839fd1886f",
-      "author": "김민정",
-      "aiName": "미드저니",
-      "promptProcess": "A close-up portrait of a charming youthful animated character with smooth peach-toned skin, a softly rounded face, large glossy dark-brown eyes, thick curved black eyebrows, a small subtle nose and a gentle confident smile. Short glossy jet-black hair with a dramatic swept fringe, sculpted side locks and a pointed upward flick at the back. Three-quarter view, head slightly turned toward the camera, clean simplified facial features, polished high-end 3D character design, soft rounded forms, subtle skin texture, warm cinematic lighting, delicate highlights on the face and hair, shallow depth of field, softly blurred peach-and-cream indoor background, friendly and optimistic mood, centered composition, ultra-clean rendering, no text, no accessories --ar 1:1 --style raw --stylize 100",
-      "content": "평소 좋아하는 아톰 캐릭터와 취미인 요가의 동작을 접목시켜서 나를 표현해 보았습니다",
-      "intermediateImages": [
-        {
-          "id": "82568666-d1cb-4e81-a7cb-5966718d9046",
-          "url": "https://raw.githubusercontent.com/jyyyyym/2026ASD/main/public/uploads/82568666-d1cb-4e81-a7cb-5966718d9046.jpg",
-          "name": "u5284226419_httpss.mj.run_oklRdS7xR4_A_vivid_minimalist_edito_76457c85-873a-4115-bf89-f9a35324b089_3.jpg",
-          "mime": "image/jpeg"
-        }
-      ],
-      "finalImages": [
-        {
-          "id": "6533e83f-2283-4510-b7bf-d46062856156",
-          "url": "https://raw.githubusercontent.com/jyyyyym/2026ASD/main/public/uploads/6533e83f-2283-4510-b7bf-d46062856156.jpg",
-          "name": "u5284226419___ATOM.png_.________________._______ATOM__________9270b11a-caf3-4599-8d28-ffbd7fdbf8c2_2.jpg",
-          "mime": "image/jpeg"
-        }
-      ],
-      "videos": [],
-      "audios": [],
-      "documents": [],
-      "createdAt": "2026-09-30T12:32:52.888Z"
-    },
-    {
       "id": "da365827-83f7-47c4-86d6-f4649f30ea44",
       "projectId": "d60ed9f2-72ab-463d-a573-3a997f725005",
       "author": "김민정",
